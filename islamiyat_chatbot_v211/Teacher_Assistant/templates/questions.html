@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamiyat Question Bank — Class 1-12 | 400 Questions</title>
+    <meta name="description" content="Complete Islamiyat Question Bank for Class 1-12 Pakistani curriculum. 400 questions with detailed 2-line answers in Roman Urdu.">
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/questions.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="qbank-body">
+
+    <!-- Top Navigation -->
+    <nav class="qbank-nav glass" id="qbank-nav">
+        <div class="qbank-nav-inner">
+            <a href="/" class="nav-logo">
+                <i class="fa-solid fa-graduation-cap"></i>
+                <span>Islamiyat AI</span>
+            </a>
+            <div class="nav-links">
+                <a href="/" class="nav-link"><i class="fa-solid fa-comments"></i> Chat</a>
+                <a href="/questions" class="nav-link active"><i class="fa-solid fa-book-open"></i> Question Bank</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="qbank-hero">
+        <div class="hero-orb hero-orb-1"></div>
+        <div class="hero-orb hero-orb-2"></div>
+        <div class="hero-orb hero-orb-3"></div>
+        <div class="hero-content">
+            <div class="hero-badge">
+                <i class="fa-solid fa-star"></i> Pakistani Curriculum — Class 1 to 12
+            </div>
+            <h1 class="hero-title">Islamiyat <span class="gradient-text">Question Bank</span></h1>
+            <p class="hero-subtitle">400 sawal aur jawab — Sab classes ke liye, Roman Urdu mein</p>
+            <div class="hero-stats">
+                <div class="stat-card">
+                    <span class="stat-num">400</span>
+                    <span class="stat-label">Total Sawaal</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-num">6</span>
+                    <span class="stat-label">Class Groups</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-num">12</span>
+                    <span class="stat-label">Classes</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-num">∞</span>
+                    <span class="stat-label">Knowledge</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Controls -->
+    <section class="controls-section">
+        <div class="controls-inner">
+            <!-- Search -->
+            <div class="search-wrap">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="search-input" class="search-input" placeholder="Koi bhi sawal dhundhein...">
+                <button class="search-clear" id="search-clear" style="display:none"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+
+            <!-- Class Filter Tabs -->
+            <div class="filter-tabs" id="filter-tabs">
+                <button class="filter-tab active" data-class="all" id="tab-all">
+                    <i class="fa-solid fa-layer-group"></i> Sab
+                </button>
+                <button class="filter-tab" data-class="1-2" id="tab-1-2">
+                    <span class="tab-badge green">1-2</span> Class 1-2
+                </button>
+                <button class="filter-tab" data-class="3-4" id="tab-3-4">
+                    <span class="tab-badge yellow">3-4</span> Class 3-4
+                </button>
+                <button class="filter-tab" data-class="5-6" id="tab-5-6">
+                    <span class="tab-badge orange">5-6</span> Class 5-6
+                </button>
+                <button class="filter-tab" data-class="7-8" id="tab-7-8">
+                    <span class="tab-badge blue">7-8</span> Class 7-8
+                </button>
+                <button class="filter-tab" data-class="9-10" id="tab-9-10">
+                    <span class="tab-badge red">9-10</span> Class 9-10
+                </button>
+                <button class="filter-tab" data-class="11-12" id="tab-11-12">
+                    <span class="tab-badge purple">11-12</span> Class 11-12
+                </button>
+            </div>
+
+            <!-- Result count -->
+            <div class="result-count" id="result-count">400 sawaal mil gaye</div>
+        </div>
+    </section>
+
+    <!-- Questions Grid -->
+    <main class="questions-main" id="questions-main">
+        <div class="questions-grid" id="questions-grid">
+            <!-- Questions are injected by JS -->
+        </div>
+        <div class="no-results" id="no-results" style="display:none">
+            <i class="fa-solid fa-search"></i>
+            <p>Koi sawal nahi mila</p>
+            <span>Doosra lafz try karein</span>
+        </div>
+    </main>
+
+    <!-- Back to Top -->
+    <button class="back-to-top" id="back-to-top" title="Upar jayein">
+        <i class="fa-solid fa-chevron-up"></i>
+    </button>
+
+    <script src="/static/questions.js"></script>
+</body>
+</html>

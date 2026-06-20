@@ -1,0 +1,2854 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Allah kaun hai?",
+      "a": "Allah ek hai, woh hamara Khaaliq hai. Woh sab kuch jaanta aur dekh sakta hai."
+    },
+    {
+      "id": 2,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Kalima Tayyaba kya hai?",
+      "a": "\"La ilaha illallah Muhammadur Rasoolullah\" — yeh pehla Kalima hai. Iska matlab hai Allah ke siwa koi ibadat ke laiq nahi."
+    },
+    {
+      "id": 3,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Hazrat Muhammad (SAW) kaun the?",
+      "a": "Hazrat Muhammad (SAW) Allah ke aakhri Nabi hain. Woh Makkah mein paida hue aur hume Islam sikhaya."
+    },
+    {
+      "id": 4,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Hum roz kitni baar namaz padhte hain?",
+      "a": "Din mein 5 waqt namaz farz hai. Fajr, Zuhr, Asr, Maghrib aur Isha — yeh 5 waqt hain."
+    },
+    {
+      "id": 5,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Bismillah ka matlab kya hai?",
+      "a": "Bismillah ka matlab hai \"Allah ke naam se shuru karta hoon.\" Har kaam shuru karne se pehle Bismillah padhna chahiye."
+    },
+    {
+      "id": 6,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Alhamdulillah ka matlab kya hai?",
+      "a": "Alhamdulillah ka matlab hai \"Sab taarif Allah ke liye hai.\" Koi nemat milne par Alhamdulillah kehna chahiye."
+    },
+    {
+      "id": 7,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Islam mein salaam kaise karte hain?",
+      "a": "\"Assalamu Alaikum\" keh kar salaam karte hain. Iska jawab \"Wa Alaikum Assalam\" dena chahiye."
+    },
+    {
+      "id": 8,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Quran kya hai?",
+      "a": "Quran Allah ka paak kalaam hai jo Hazrat Muhammad (SAW) par nazil hua. Yeh hamari zindagi ka rahnuma hai."
+    },
+    {
+      "id": 9,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Wuzu kyun kiya jaata hai?",
+      "a": "Namaz se pehle wuzu karna zaroori hai. Wuzu se jism aur roh dono paak hote hain."
+    },
+    {
+      "id": 10,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Roza kyun rakha jaata hai?",
+      "a": "Roza Ramadan mein Allah ki khushi ke liye rakha jaata hai. Isse sabr aur taqwa milta hai."
+    },
+    {
+      "id": 11,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Sach bolna kyun zaroori hai?",
+      "a": "Islam mein sach bolna bahut zaroori hai. Nabi (SAW) ne farmaya \"Sach bolo chahe kadwa lage.\""
+    },
+    {
+      "id": 12,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Maa baap ki izzat kyun karni chahiye?",
+      "a": "Allah ne Quran mein maa baap ki izzat ka hukm diya. Unki khidmat se Allah khush hota hai."
+    },
+    {
+      "id": 13,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Zakat kya hai?",
+      "a": "Zakat apne maal ka 2.5% ghareebon ko dena hai. Yeh Islam ka chautha rukn hai."
+    },
+    {
+      "id": 14,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Hajj kya hai?",
+      "a": "Hajj Makkah jakar Allah ki ibadat karna hai. Yeh Islam ka paanchwaan rukn hai."
+    },
+    {
+      "id": 15,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Jannat kya hai?",
+      "a": "Jannat woh jagah hai jahan nekon ko aakhirat mein reward milega. Wahan hamesha khushi aur sukoon hoga."
+    },
+    {
+      "id": 16,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Jahannam kya hai?",
+      "a": "Jahannam woh jagah hai jahan gunahgaron ko saza milegi. Allah se darte hue gunah se bachna chahiye."
+    },
+    {
+      "id": 17,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Farishte kaun hain?",
+      "a": "Farishte Allah ke paak bande hain jo noor se bane hain. Woh Allah ke hukm se kaam karte hain."
+    },
+    {
+      "id": 18,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Hazrat Jibrail (AS) kaun hain?",
+      "a": "Hazrat Jibrail (AS) Allah ke khaas farishte hain. Woh Anbiya par Wahi laate the."
+    },
+    {
+      "id": 19,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Namaz mein kya padhte hain?",
+      "a": "Namaz mein Surah Fatiha aur doosri Surahs padhte hain. Allah ki hamd aur tasbih bhi karte hain."
+    },
+    {
+      "id": 20,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Safai ka kya hukm hai?",
+      "a": "Islam mein safai nisf Iman hai. Ghar, kapde aur jism sab saaf rakhna chahiye."
+    },
+    {
+      "id": 21,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Pyaar aur mohabbat Islam mein kaisi hai?",
+      "a": "Islam mein sabse zyada mohabbat Allah aur Nabi (SAW) se honi chahiye. Phir walidain aur baqi insanon se."
+    },
+    {
+      "id": 22,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Burai se kyun bachna chahiye?",
+      "a": "Burai se bachna Allah ka hukm hai. Naik kaam karne se Allah khush hota hai."
+    },
+    {
+      "id": 23,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Khana khaane se pehle kya padhna chahiye?",
+      "a": "Khana khaane se pehle Bismillah padhni chahiye. Aur khaane ke baad Alhamdulillah kehna chahiye."
+    },
+    {
+      "id": 24,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Raat ko sone se pehle kya dua padhte hain?",
+      "a": "Sone se pehle \"Bismika Allahumma amootu wa ahya\" padhte hain. Yeh sunnat hai jo Nabi (SAW) ne sikhaayi."
+    },
+    {
+      "id": 25,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Musalmaan hone ki kya nishani hai?",
+      "a": "Musalmaan Kalima padhta hai, namaz padha hai, roza rakhta hai. Woh sach bolta hai aur doosron ki madad karta hai."
+    },
+    {
+      "id": 26,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Quran mein kitni Surahs hain?",
+      "a": "Quran mein 114 Surahs hain. Pehli Surah Al-Fatiha aur aakhri Surah An-Naas hai."
+    },
+    {
+      "id": 27,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Islam ke kitne arkan hain?",
+      "a": "Islam ke 5 arkan hain — Kalima, Namaz, Roza, Zakat, Hajj. Yeh sab farz hain."
+    },
+    {
+      "id": 28,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Allah ko kya pasand hai?",
+      "a": "Allah ko naik kaam, sach bolna aur ibadat pasand hai. Woh mehnat karne walon ko bhi pasand karta hai."
+    },
+    {
+      "id": 29,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Dua kya hai?",
+      "a": "Dua Allah se mangna hai — yeh ibadat ka sabse ahem hissa hai. Allah farmata hai \"Mujhse maango mein qubool karoonga.\""
+    },
+    {
+      "id": 30,
+      "classGroup": "1-2",
+      "color": "green",
+      "q": "Nek kaam karne ka kya faaida hai?",
+      "a": "Nek kaam karne se Allah khush hota hai aur sawab milta hai. Aakhirat mein yeh kaam kaam aayenge."
+    },
+    {
+      "id": 31,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam ke 5 arkan kya kya hain?",
+      "a": "Kalima, Namaz, Roza, Zakat aur Hajj — yeh Islam ke 5 arkan hain. Yeh sab farz ibaadaat hain."
+    },
+    {
+      "id": 32,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Wuzu ke kitne farz hain?",
+      "a": "Wuzu ke 4 farz hain — munh dhona, haath dhona, sar ka masah, pair dhona. Yeh sab zaroori hain."
+    },
+    {
+      "id": 33,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Namaz ke kitne farz hain?",
+      "a": "Namaz ke 7 shartein aur 6 arkan hain. Bina in ke namaz nahi hoti."
+    },
+    {
+      "id": 34,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Roza kis mahine mein farz hai?",
+      "a": "Ramadan ul Mubarak ka poora mahina roza rakhna farz hai. Yeh Islam ka teesra rukn hai."
+    },
+    {
+      "id": 35,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Zakat kis par farz hai?",
+      "a": "Zakat us Muslim par farz hai jis ke paas nisab ke barabar maal ho. Maal par ek saal guzarna bhi zaroori hai."
+    },
+    {
+      "id": 36,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Hajj kab farz hua?",
+      "a": "Hajj 9 Hijri mein farz hua. Zindagi mein ek baar har mustati Muslim par farz hai."
+    },
+    {
+      "id": 37,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Quran Majeed kab nazil hua?",
+      "a": "Quran Ramadan ke mahine mein nazil hona shuru hua. Pehli Wahi Ghaar-e-Hira mein 610 AD mein nazil hui."
+    },
+    {
+      "id": 38,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Hazrat Muhammad (SAW) ki paidaish kab hui?",
+      "a": "Nabi (SAW) 12 Rabi-ul-Awwal 570 AD ko paida hue. Is saal ko \"Aam-ul-Feel\" kaha jaata hai."
+    },
+    {
+      "id": 39,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Amanat kya hai?",
+      "a": "Amanat ka matlab kisi ki cheez ki hifazat karna hai. Nabi (SAW) ko \"Al-Ameen\" — amaanatdar kaha jaata tha."
+    },
+    {
+      "id": 40,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Sach bolne ka kya faida hai?",
+      "a": "Sach bolne se Allah khush hota hai aur log aitbaar karte hain. Nabi (SAW) ne farmaya sach jannat ki taraf le jaata hai."
+    },
+    {
+      "id": 41,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Jhooth bolne ka kya nuqsan hai?",
+      "a": "Jhooth bolne se Allah naraaz hota hai aur log aitbaar nahi karte. Jhooth jahannam ki taraf le jaata hai."
+    },
+    {
+      "id": 42,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Walidain ke kya haqooq hain?",
+      "a": "Walidain ki izzat karo, unki baat mano aur khidmat karo. Unke liye dua karo — \"Rabbi irhamhuma.\""
+    },
+    {
+      "id": 43,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Ustaad ka kya haq hai?",
+      "a": "Ustaad ki izzat karo, unki baat dhyan se suno. Unke liye dua karo — woh ilm dete hain."
+    },
+    {
+      "id": 44,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein safai ka kya maqam hai?",
+      "a": "\"Safai nisf Iman hai\" — yeh Hadith hai. Jism, kapde aur ghar sab saaf rakhna zaroori hai."
+    },
+    {
+      "id": 45,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Khana khaane ka sunnat tareeqa kya hai?",
+      "a": "Bismillah parhna, dahine haath se khana aur apne saamne se khana sunnat hai. Khaane mein se aib nahi nikaalna chahiye."
+    },
+    {
+      "id": 46,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein mehman nawazi kya hai?",
+      "a": "Mehman Allah ki rehmat le kar aata hai — Islam mein mehman ki khidmat zaroori hai. Jo Allah aur aakhirat par iman rakhe woh mehman ki izzat kare."
+    },
+    {
+      "id": 47,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Namazon ke naam kya kya hain?",
+      "a": "Fajr, Zuhr, Asr, Maghrib aur Isha — yeh 5 waqt ki namazein hain. Har namaz ka waqt muqarrar hai."
+    },
+    {
+      "id": 48,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Azaan kya hai?",
+      "a": "Azaan namaz ke liye bulaane ka tareeqa hai. Hazrat Bilal (RA) pehle muazzin the."
+    },
+    {
+      "id": 49,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Imam kaun hota hai?",
+      "a": "Imam woh hota hai jo namaz mein aage khadhaa ho kar namaz padhata hai. Imam ko Quran acha aana chahiye."
+    },
+    {
+      "id": 50,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Jummah ki namaz kab hoti hai?",
+      "a": "Jummah ki namaz Jummah (Friday) ko Zuhr ke waqt hoti hai. Yeh mard Muslims par farz hai."
+    },
+    {
+      "id": 51,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Eid ul Fitr kab hoti hai?",
+      "a": "Eid ul Fitr Ramadan ke baad 1 Shawwal ko hoti hai. Is din roza nahi rakhna chahiye."
+    },
+    {
+      "id": 52,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Eid ul Adha kab hoti hai?",
+      "a": "Eid ul Adha 10 Zil Hajj ko hoti hai. Is din qurbani ki sunnat hai."
+    },
+    {
+      "id": 53,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Qurbani kya hai?",
+      "a": "Qurbani Allah ki raza ke liye janwar zabah karna hai. Yeh Hazrat Ibrahim (AS) ki sunnat hai."
+    },
+    {
+      "id": 54,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Ramadan mein kya khaas ibaadaat hoti hain?",
+      "a": "Ramadan mein roza, taraweeh, tilawat-e-Quran aur sadqa kiya jaata hai. Lailat-ul-Qadr is mein hoti hai."
+    },
+    {
+      "id": 55,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Lailat-ul-Qadr kya hai?",
+      "a": "Lailat-ul-Qadr Ramadan ki aakhri 10 raaton mein hai. Yeh hazar mahino se behtar raat hai."
+    },
+    {
+      "id": 56,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Sadqa kya hai?",
+      "a": "Sadqa Allah ki raah mein maal kharch karna hai. Yeh farz nahi lekin bahut sawab ka kaam hai."
+    },
+    {
+      "id": 57,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Nabi (SAW) ki koi sunnat batao.",
+      "a": "Dahine haath se khana, miswak karna, Bismillah padhna — yeh Nabi (SAW) ki sunnaten hain. In par amal karna sawab hai."
+    },
+    {
+      "id": 58,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Dua maangne ka sahi tareeqa kya hai?",
+      "a": "Dua mein pehle Allah ki hamd karo phir Nabi (SAW) par darood bhejo. Phir apni hajat maango."
+    },
+    {
+      "id": 59,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Waqt ki pabandi Islam mein kaise hai?",
+      "a": "Islam mein namaz ka waqt muqarrar hai — waqt ki pabandi sikhata hai. Farmaya: \"Waqt sabse badi nemat hai.\""
+    },
+    {
+      "id": 60,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein mehnat karne ka kya hukm hai?",
+      "a": "Islam mein halal mehnat karna ibadat hai. Nabi (SAW) ne farmaya \"Mehnat karne wala Allah ka dost hai.\""
+    },
+    {
+      "id": 61,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Gareeb ki madad kyun karni chahiye?",
+      "a": "Gareeb ki madad karna sadqa aur sawab ka kaam hai. Allah ne farmaya — gareeb ko khilana badi nemat hai."
+    },
+    {
+      "id": 62,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Hasad (jealousy) ka kya nuqsan hai?",
+      "a": "Hasad naiki ko aise khaata hai jaise aag lakdi khaati hai. Islam mein hasad karna mana hai."
+    },
+    {
+      "id": 63,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Shukr guzari kya hai?",
+      "a": "Allah ki neamton par shukar ada karna zaroori hai. Farmaya: \"Agar shukar karoge to mein aur zyada dunga.\""
+    },
+    {
+      "id": 64,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein bhai chara kya hai?",
+      "a": "Sab Muslims ek doosre ke bhai hain. Ek Momin doosre Momin ka dard mehsoos karta hai."
+    },
+    {
+      "id": 65,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein nemat ka kya tasawwur hai?",
+      "a": "Har nemat Allah ki taraf se hai — sihhat, maal, ilm sab. Inpar shukar karna zaroori hai."
+    },
+    {
+      "id": 66,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Bure kaam se kyun bachna chahiye?",
+      "a": "Bure kaam se Allah naraaz hota hai aur sawab khatam hota hai. Buri sangat se bachna chahiye."
+    },
+    {
+      "id": 67,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein ilm ka kya maqam hai?",
+      "a": "\"Taleem haasil karo chahe China tak jaana pade.\" Ilm haasil karna har Muslim mard aur aurat par farz hai."
+    },
+    {
+      "id": 68,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein namaaz ka kya faida hai?",
+      "a": "Namaz burai aur fahsha se rokti hai. Dil ko sukoon milta hai aur Allah se qurbat hoti hai."
+    },
+    {
+      "id": 69,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Achhe akhlaaq ki kya ahmiyat hai?",
+      "a": "Nabi (SAW) farmaya \"Mein achhe akhlaaq ko mukammal karne aaya hoon.\" Achha akhlaaq insaan ko duniya aur aakhirat mein kamyaab karta hai."
+    },
+    {
+      "id": 70,
+      "classGroup": "3-4",
+      "color": "yellow",
+      "q": "Islam mein touba ka kya maqam hai?",
+      "a": "Allah Tawwab hai — maaf karne wala. Sachchi touba karne se gunah maaf ho jaate hain."
+    },
+    {
+      "id": 71,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hazrat Muhammad (SAW) ki wiladat kab aur kahan hui?",
+      "a": "Nabi (SAW) 12 Rabi-ul-Awwal 570 AD ko Makkah mein paida hue. Unke walid Abdullah pehle wafat pa chuke the."
+    },
+    {
+      "id": 72,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Nabi (SAW) ki parwarish kaise hui?",
+      "a": "Pehle Hazrat Halima Sadia ne doodh pilaya, phir walida Amina ne parwarish ki. Walida ki wafat ke baad dada aur phir chacha Abu Talib ne parwarish ki."
+    },
+    {
+      "id": 73,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam ke arkan-e-khamsa kya hain?",
+      "a": "Kalima, Namaz, Roza, Zakat aur Hajj — yeh 5 arkan hain. Yeh sab farz ibaadaat hain."
+    },
+    {
+      "id": 74,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Quran Majeed mein kitni Surahs aur Aayaat hain?",
+      "a": "Quran mein 114 Surahs aur 6236 Aayaat hain. Pehli Surah Al-Fatiha aur aakhri An-Naas hai."
+    },
+    {
+      "id": 75,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Anbiya ikram ki zaroorat kyun hai?",
+      "a": "Anbiya Allah ke bheeje hue hain jo insanon ko seedha raasta dikhate hain. Woh Allah ka paigham laate hain."
+    },
+    {
+      "id": 76,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hazrat Ibrahim (AS) ki azmat bayan karo.",
+      "a": "Hazrat Ibrahim (AS) \"Khalilullah\" — Allah ke dost — kahlate hain. Unhon ne bete ki qurbani ka imtihaan pass kiya."
+    },
+    {
+      "id": 77,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hazrat Musa (AS) ki azmat kya thi?",
+      "a": "Hazrat Musa (AS) \"Kalimullah\" kahlate hain — Allah se seedha baat karne wale. Unhon ne Bani Israel ko Firoun se azaad karaya."
+    },
+    {
+      "id": 78,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hazrat Isa (AS) ka maqam kya hai?",
+      "a": "Hazrat Isa (AS) \"Roohullah\" kahlate hain. Woh Allah ke Nabi hain — Allah ke bete nahi."
+    },
+    {
+      "id": 79,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Aasmani kitaaben kya hain?",
+      "a": "Torat, Zaboor, Injeel aur Quran — yeh 4 bari aasmani kitaaben hain. Quran aakhri aur mahfooz kitaab hai."
+    },
+    {
+      "id": 80,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Roza rakhne ke kya faayde hain?",
+      "a": "Roza sabr, taqwa aur Allah se qurbat deta hai. Ghareeb ki bhook ka ehsaas hota hai."
+    },
+    {
+      "id": 81,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Zakat dene ke kya fawaaid hain?",
+      "a": "Zakat se maal paak hota hai aur ghurbat kam hoti hai. Dene wale ka dil sakhi hota hai."
+    },
+    {
+      "id": 82,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hajj ki kya ahmiyat hai?",
+      "a": "Hajj mein poori duniya ke Muslims ek jagah jama hote hain — Islam ki wahdat ka mazhar. Hajj ke baad gunah maaf ho jaate hain."
+    },
+    {
+      "id": 83,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Pehli Wahi kab nazil hui?",
+      "a": "Pehli Wahi 610 AD mein Ghaar-e-Hira mein nazil hui. Surah Alaq ki pehli 5 aayaat nazil huin."
+    },
+    {
+      "id": 84,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Nabi (SAW) ko kya mushkilaat uthani padin?",
+      "a": "Makkah mein 13 saal zulm sahte rahe — Taif mein pathhar khaye. Muhasara hua — bhookha rehna pada."
+    },
+    {
+      "id": 85,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hijrat-e-Madina kyun zaroori thi?",
+      "a": "Makkah mein zulm inteha par tha — Islam par amal mushkil ho gaya tha. Madina mein Islamic state ki buniyaad rakhi ja sakti thi."
+    },
+    {
+      "id": 86,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Haqooq-ul-Walidain kya hain?",
+      "a": "Walidain ki izzat karo, unki khidmat karo, baat mano. Unhe \"Uff\" tak mat kaho."
+    },
+    {
+      "id": 87,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Haqooq-ul-Jaar (pados ke haqooq) kya hain?",
+      "a": "Paros ko takleef mat do, unhe khana khilao. Mushkil mein unki madad karo."
+    },
+    {
+      "id": 88,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein yateem ke kya haqooq hain?",
+      "a": "Yateem ka maal mat khao — Quran ka hukm. Unhe pyaar do, taleem dilao aur shelter do."
+    },
+    {
+      "id": 89,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein khwatoon ke kya haqooq hain?",
+      "a": "Islam ne khatoon ko meerath, taleem aur nikah mein marzi ka haq diya. Jannat maa ke qadam ke neeche hai."
+    },
+    {
+      "id": 90,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein science ki kya ahmiyat hai?",
+      "a": "Quran mein \"Iqra\" — parho — ka pehla hukm ilm haasil karne ka tha. Islam ne science ko ibadat ka darja diya."
+    },
+    {
+      "id": 91,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Ghazwa kya hota hai?",
+      "a": "Ghazwa woh jang hai jisme Nabi (SAW) khud shamil hote. Sariyya woh jang hai jisme Nabi (SAW) nahi hote."
+    },
+    {
+      "id": 92,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein jang ke kya usool hain?",
+      "a": "Civilians, auraton aur bacchon par hamla nahi. Zakhmion ki madad karo aur qaidiyoon se achha sulook karo."
+    },
+    {
+      "id": 93,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein sood ka kya hukm hai?",
+      "a": "Islam mein sood (interest) bilkul haram hai. Quran mein Allah ne sood ko haram kiya."
+    },
+    {
+      "id": 94,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein tijarat ke kya usool hain?",
+      "a": "Sach bolna, dhoka nahi dena aur sahi tola naap rakhna zaroori hai. Sachcha taajir Anbiya ke saath hoga."
+    },
+    {
+      "id": 95,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein janwaron ke kya haqooq hain?",
+      "a": "Janwaron ko takleef mat do — unhe bhookha mat rakho. Ek aurat dozakh mein gayi kyunke billi ko bandh kar mara."
+    },
+    {
+      "id": 96,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein environment ki kya ahmiyat hai?",
+      "a": "\"Darakh lagana sadqa hai.\" Paani barbaad mat karo. Zameen ko naqsaan mat pahunchao."
+    },
+    {
+      "id": 97,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein ilm haasil karne ka kya hukm hai?",
+      "a": "\"Taleem haasil karo chahe China jaana pade.\" Ilm haasil karna har Muslim par farz hai."
+    },
+    {
+      "id": 98,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein khidmat-e-khalq kya hai?",
+      "a": "\"Logon mein se behtar woh hai jo logon ke kaam aaye.\" Gareeb ki madad karna sawab hai."
+    },
+    {
+      "id": 99,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein waqt ki kya ahmiyat hai?",
+      "a": "Quran mein \"Wal-Asr\" — waqt ki qasam khai. Waqt barbaad karna Islam mein pasandida nahi."
+    },
+    {
+      "id": 100,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein touba ka kya maqam hai?",
+      "a": "Allah Tawwab hai — maaf karne wala. Sachchi touba karne se gunah maaf ho jaate hain. \"Allah ki rehmat se naaumeed mat ho.\""
+    },
+    {
+      "id": 101,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein sabr ki kya ahmiyat hai?",
+      "a": "\"Allah sabr karne walon ke saath hai.\" Mushkilaat mein sabr karna Allah ka hukm hai."
+    },
+    {
+      "id": 102,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein shukar ki kya ahmiyat hai?",
+      "a": "\"Agar shukar karoge to mein aur zyada dunga.\" Neamton par Allah ka shukar ada karna zaroori hai."
+    },
+    {
+      "id": 103,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein tawakkul kya hai?",
+      "a": "Tawakkul ka matlab Allah par bharosa karna hai. \"Oont bandho phir Allah par tawakkul karo.\""
+    },
+    {
+      "id": 104,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein ikhlaas kya hai?",
+      "a": "Ikhlaas ka matlab sirf Allah ki raza ke liye kaam karna hai. Ria (dikhaawa) se bachna zaroori hai."
+    },
+    {
+      "id": 105,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein amal ki kya ahmiyat hai?",
+      "a": "\"Iman sirf dil mein nahi — amal bhi zaroori hai.\" Achha amal insaan ko jannat le jaata hai."
+    },
+    {
+      "id": 106,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein qurbani ki kya sunnah hai?",
+      "a": "Hazrat Ibrahim (AS) ne bete ki qurbani di — Allah ne qubool kiya. Eid ul Adha mein qurbani sunnat-e-Ibrahim hai."
+    },
+    {
+      "id": 107,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein Ramadan ki kya fazilat hai?",
+      "a": "Ramadan mein jannat ke darwaze khulte hain, jahannam ke band hote hain. Lailat-ul-Qadr is mein hoti hai."
+    },
+    {
+      "id": 108,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein Lailat-ul-Qadr ki kya fazilat hai?",
+      "a": "Lailat-ul-Qadr hazar mahino se behtar raat hai. Is raat ibadat karna bahut sawab ka kaam hai."
+    },
+    {
+      "id": 109,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein I'tikaf kya hai?",
+      "a": "I'tikaf Ramadan ke aakhri 10 din masjid mein reh kar ibadat karna hai. Yeh Nabi (SAW) ki sunnat hai."
+    },
+    {
+      "id": 110,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein Eid ki kya khushiyan hain?",
+      "a": "Eid Allah ki nemat ka shukar ada karne ka din hai. Sab se milo, gale lago, gareeb ko khilao."
+    },
+    {
+      "id": 111,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein namaaz-e-janaza kya hai?",
+      "a": "Namaaz-e-janaza marne wale ke liye dua hai — yeh farz-e-kifaya hai. Janaze mein shamil hona sunnat hai."
+    },
+    {
+      "id": 112,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein marne ke baad kya hota hai?",
+      "a": "Marne ke baad barzakh ki zindagi shuru hoti hai. Phir qiyamat, hisaab aur jannat ya jahannam."
+    },
+    {
+      "id": 113,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein qiyamat ki kya nishaniyan hain?",
+      "a": "Jhooth ka aam hona, amaanat khatam hona, deen se door hona — yeh qiyamat ki nishaniyan hain."
+    },
+    {
+      "id": 114,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein iman ke kitne arkan hain?",
+      "a": "Iman ke 6 arkan hain — Allah, Farishte, Kitaben, Anbiya, Aakhirat, Taqdeer par iman. Yeh sab zaroori hain."
+    },
+    {
+      "id": 115,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Taqdeer par iman kya hai?",
+      "a": "Taqdeer par iman ka matlab hai — jo hota hai Allah ki marzi se hota hai. Mehnat karo — baaki Allah par chhodho."
+    },
+    {
+      "id": 116,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein munaafiq kaun hota hai?",
+      "a": "Munaafiq woh hai jo zahir mein Muslim ho lekin andar se nahi. \"Munaafiq ki 3 nishaniyan — jhooth bolna, waada todna, amanat mein khiyanat.\""
+    },
+    {
+      "id": 117,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hazrat Adam (AS) ki azmat kya thi?",
+      "a": "Hazrat Adam (AS) pehle insaan aur pehle Nabi hain. Allah ne unhe apna khalifa banaya aur sab cheezein sikhain."
+    },
+    {
+      "id": 118,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Hazrat Nuh (AS) ki azmat kya thi?",
+      "a": "Hazrat Nuh (AS) ne 950 saal tabligh ki. Toofaan mein kashti bana kar Mominon ko bachaya."
+    },
+    {
+      "id": 119,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein Surah Al-Fatiha ki kya ahmiyat hai?",
+      "a": "Surah Al-Fatiha \"Ummul Quran\" hai — Quran ki maa. Namaz ki har rakaat mein padhna farz hai."
+    },
+    {
+      "id": 120,
+      "classGroup": "5-6",
+      "color": "orange",
+      "q": "Islam mein Tayammum kya hai?",
+      "a": "Tayammum paani na milne par mitti se taharat ka tareeqa hai. Safar ya beemar hone par jaiz hai."
+    },
+    {
+      "id": 121,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Ghazwa-e-Badr ki ahmiyat kya thi?",
+      "a": "Ghazwa-e-Badr 2 Hijri mein hua — Islam ki pehli badi fatah. 313 Muslims ne 1000 mushrikeen ko haraaya."
+    },
+    {
+      "id": 122,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Ghazwa-e-Uhud mein shikast kyun hui?",
+      "a": "Teer andazon ne Nabi (SAW) ka hukm na maan kar pahaar chhoda. Khalid bin Waleed ne peeche se hamla kiya."
+    },
+    {
+      "id": 123,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Ghazwa-e-Khandaq mein khandaq khodne ka mashwara kisne diya?",
+      "a": "Hazrat Salman Farsi (RA) ne khandaq khodne ka mashwara diya. Yeh Iranian military strategy thi."
+    },
+    {
+      "id": 124,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Sulah Hudaibiya ki kya ahmiyat thi?",
+      "a": "Sulah Hudaibiya 6 Hijri mein hua — 10 saal ka aman muahida. Is ke baad 2 saal mein zyada log Muslim hue."
+    },
+    {
+      "id": 125,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Fatah Makkah kab hua?",
+      "a": "Fatah Makkah 8 Hijri (630 AD) mein hua. 10,000 ka lashkar — bina khoon kharaabe ke fath hua."
+    },
+    {
+      "id": 126,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Fatah Makkah mein Nabi (SAW) ne kya kiya?",
+      "a": "Nabi (SAW) ne aam maafi ka elaan kiya — \"Aaj koi reproach nahi.\" Ka'ba ko 360 buton se paak kiya."
+    },
+    {
+      "id": 127,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hajjatul Wida kab hua?",
+      "a": "Hajjatul Wida 10 Hijri (632 AD) mein hua. Nabi (SAW) ka yeh aakhri hajj tha."
+    },
+    {
+      "id": 128,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hajjatul Wida mein Nabi (SAW) ne kya farmaya?",
+      "a": "\"Kisi Arab ko Ajam par barteri nahi — siwaay taqwa ke.\" \"Mein tum mein Quran aur Sunnat chhodhta hoon.\""
+    },
+    {
+      "id": 129,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Jihad ki haqeeqi tarif kya hai?",
+      "a": "Jihad ka matlab sirf jung nahi — apne nafs se ladna sabse bada jihad hai. Bolkar haq ki baat karna bhi jihad hai."
+    },
+    {
+      "id": 130,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein aurat ka kya maqam hai?",
+      "a": "Islam ne aurat ko meerath, taleem aur nikah mein marzi ka haq diya. \"Jannat maa ke qadam ke neeche hai.\""
+    },
+    {
+      "id": 131,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Khulafa-e-Rashideen kaun the?",
+      "a": "Hazrat Abu Bakr, Umar, Usman aur Ali (RA) — yeh Chaar Khulafa-e-Rashideen hain. Inhon ne Nabi (SAW) ki seerat par chala."
+    },
+    {
+      "id": 132,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hazrat Abu Bakr (RA) ka daur kya tha?",
+      "a": "Hazrat Abu Bakr (RA) ne 2 saal hukoomat ki. Unhon ne murtadeen se ladaai ki aur Islam ko bachaya."
+    },
+    {
+      "id": 133,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hazrat Umar (RA) ka daur kya tha?",
+      "a": "Hazrat Umar (RA) ne 10 saal hukoomat ki — adal ki misaal. Unke daur mein Iran, Sham, Misr fatah hue."
+    },
+    {
+      "id": 134,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hazrat Usman (RA) ka daur kya tha?",
+      "a": "Hazrat Usman (RA) ne 12 saal hukoomat ki. Unhon ne Quran ka final compilation karwaya."
+    },
+    {
+      "id": 135,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hazrat Ali (RA) ka daur kya tha?",
+      "a": "Hazrat Ali (RA) ne 5 saal hukoomat ki — ilm aur adl ka daur. Unhon ne bahut mushkilaat ka samna kiya."
+    },
+    {
+      "id": 136,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Haqooq-ul-Ibad kya hain?",
+      "a": "Haqooq-ul-Ibad woh haqooq hain jo ek insaan ka doosre par hain. Islam mein yeh Allah ke haqooq ke barabar zaroori hain."
+    },
+    {
+      "id": 137,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein gareeb ke kya haqooq hain?",
+      "a": "Gareeb ko khana khilao, zakat do. Unka mazaq mat udao — woh bhi Allah ke bande hain."
+    },
+    {
+      "id": 138,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein musafir ke kya haqooq hain?",
+      "a": "Musafir ki madad karo, shelter do. Farmaya: \"Musafir ka maal na khaao.\""
+    },
+    {
+      "id": 139,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein beemaar ke kya haqooq hain?",
+      "a": "Beemaar ki iyaadat (takleef poochna) sunnat hai. Dua karo aur madad karo."
+    },
+    {
+      "id": 140,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein padosi ke kya haqooq hain?",
+      "a": "Paros ko takleef mat do, khana khilao. \"Woh momin nahi jis ka pados bhookha soye.\""
+    },
+    {
+      "id": 141,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Quran Majeed ki hifazat kaise hoti hai?",
+      "a": "Allah ne farmaya \"Hum ne Quran nazil kiya aur hum iske hifazat karne wale hain.\" Hafiz bhi hifazat ka zariya hain."
+    },
+    {
+      "id": 142,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hadith kya hai?",
+      "a": "Hadith Nabi (SAW) ke aqwaal, afaal aur taqqariraat ka majmua hai. Yeh Quran ke baad doosra bada maakhaz hai."
+    },
+    {
+      "id": 143,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Sunnah kya hai?",
+      "a": "Sunnah Nabi (SAW) ka tareeqa hai — jo unhon ne kiya ya karne diya. Sunnah par amal karna sawab hai."
+    },
+    {
+      "id": 144,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein social life kaisi honi chahiye?",
+      "a": "Sab ke saath izzat se milna, mazloom ki madad karna. Islam mein barabri aur bhai chara zaroori hai."
+    },
+    {
+      "id": 145,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein shadi ki kya ahmiyat hai?",
+      "a": "Shadi Nabi (SAW) ki sunnat hai — \"Nikah meri sunnat hai.\" Shadi se deen mukammal hota hai."
+    },
+    {
+      "id": 146,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein talaq ka kya hukm hai?",
+      "a": "Talaq halal cheezoon mein Allah ko sabse zyada na-pasand hai. Shadi bachaane ki koshish pehle zaroori hai."
+    },
+    {
+      "id": 147,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein bachon ki tarbiyat kaise karein?",
+      "a": "Bachon ko Quran, namaz aur akhlaaq sikhao. Unhe pyaar aur izzat se tarbiyat do."
+    },
+    {
+      "id": 148,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein khidmat-e-walidain kya hai?",
+      "a": "\"Tumhara Rabb hukm deta hai ke Uske siwa kisi ki ibadat mat karo aur walidain ke saath bhalaai karo.\" Unhe budhape mein akela mat choro."
+    },
+    {
+      "id": 149,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein adalat ka kya maqam hai?",
+      "a": "\"Adal karo chahe apne khilaf ho.\" Nabi (SAW) ne farmaya agar Fatima bhi chori karti to haath kattta."
+    },
+    {
+      "id": 150,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein tijarat ke kya usool hain? (Class 7-8)",
+      "a": "Sach bolna, dhoka nahi dena, sahi tola. Sood haram — halal tijarat karo."
+    },
+    {
+      "id": 151,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein mazloom ki madad kyun zaroori hai?",
+      "a": "\"Mazloom ki badduwa se daro — woh seedha Allah tak jaati hai.\" Mazloom ki madad karna farz hai."
+    },
+    {
+      "id": 152,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein amn ki kya ahmiyat hai?",
+      "a": "Islam ka naam hi amn hai — \"As-Salam.\" Aman aur sulah Islam ka bunyadi usool hai."
+    },
+    {
+      "id": 153,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein waada poora karna kyun zaroori hai?",
+      "a": "\"Waada poora karo — waada poochha jaayega.\" Waada torna munafiqat ki nishani hai."
+    },
+    {
+      "id": 154,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein gheebet (backbiting) ka kya hukm hai?",
+      "a": "Gheebat haram hai — \"Kya tum apne murde bhai ka gosht khaana pasand karte ho?\" Kisi ki peethe peechhe burai mat karo."
+    },
+    {
+      "id": 155,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein hasad aur bughz ka kya nuqsan hai?",
+      "a": "\"Hasad naiki ko aise khaata hai jaise aag lakdi khaati hai.\" Hasad aur bughz dil ko beemar karta hai."
+    },
+    {
+      "id": 156,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Nabi (SAW) ki seerat aaj bhi kyun relevant hai?",
+      "a": "Nabi (SAW) ki zindagi mukammal namoona hai — ghar, tijarat, jang, siyasat sab mein. Quran ne farmaya \"Tumhare liye Rasool mein behterein example hai.\""
+    },
+    {
+      "id": 157,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein insaani barabari kya hai?",
+      "a": "\"Kisi Arab ko Ajam par barteri nahi siwaay taqwa ke.\" Islam ne rang, nasal aur zaat ki barteri khatam ki."
+    },
+    {
+      "id": 158,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein freedom of religion kya hai?",
+      "a": "\"Deen mein koi jabr nahi\" — Surah Al-Baqarah. Islam mein mazhab par jabr nahi."
+    },
+    {
+      "id": 159,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein non-Muslims ke kya haqooq hain?",
+      "a": "Non-Muslims ko mazhabi azaadi hai, jaan maal ki hifazat hai. Unpar zulm karna haram hai."
+    },
+    {
+      "id": 160,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein dost ki kya ahmiyat hai?",
+      "a": "\"Insaan apne dost ke deen par hota hai — dekho kise dost banate ho.\" Nek dost ki sangat zaroori hai."
+    },
+    {
+      "id": 161,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein ghar ki kya ahmiyat hai?",
+      "a": "\"Tumhara ghar tumhare liye jannat hai.\" Ghar mein sukoon aur mohabbat honi chahiye."
+    },
+    {
+      "id": 162,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein taleem ki kya ahmiyat hai?",
+      "a": "\"Ilm haasil karna har Muslim mard aur aurat par farz hai.\" Taleem insaan ko kamyaab banati hai."
+    },
+    {
+      "id": 163,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein mehnat ki kya ahmiyat hai?",
+      "a": "\"Koi khana apne haath ki mehnat se behtar nahi.\" Halal mehnat karna ibadat hai."
+    },
+    {
+      "id": 164,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein dua ki kya ahmiyat hai?",
+      "a": "Dua ibadat ka zar hai — \"Mujhse maango mein qubool karoonga.\" Har waqt dua maangna chahiye."
+    },
+    {
+      "id": 165,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein taqdeer par iman ka kya matlab hai?",
+      "a": "Taqdeer par iman ka matlab — jo hota hai Allah ki marzi se hota hai. Mehnat karo aur Allah par bharosa rakho."
+    },
+    {
+      "id": 166,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hazrat Khadija (RA) ki azmat kya thi?",
+      "a": "Hazrat Khadija (RA) pehli Muslim khatoon aur Nabi (SAW) ki pehli biwi thin. Unhon ne apna maal Islam par laga diya."
+    },
+    {
+      "id": 167,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Taraweeh kya hai?",
+      "a": "Taraweeh Ramadan mein Isha ke baad 20 rakaat sunnat namaz hai. Is mein Quran sunna aur padhna sawab hai."
+    },
+    {
+      "id": 168,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Sadqa-e-Fitr kya hai?",
+      "a": "Sadqa-e-Fitr Eid ul Fitr se pehle gareeb ko diya jaata hai. Yeh Eid ki namaz se pehle ada karna zaroori hai."
+    },
+    {
+      "id": 169,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Dawah kya hai?",
+      "a": "Dawah Allah ki taraf bulana hai — hikmat aur moiza hasana se. Yeh har Muslim ki zimmedari hai."
+    },
+    {
+      "id": 170,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Masjid ki kya ahmiyat hai?",
+      "a": "Masjid ibadat ka markaz hai — namaz, ilm, ijtemaat. \"Allah ke nazdeek pasandida jagah masjid hai.\""
+    },
+    {
+      "id": 171,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Jummah ki kya ahmiyat hai?",
+      "a": "Jummah Muslims ka haftewar ijtima hai — khutba, namaz, dua. Mard Muslims par farz hai."
+    },
+    {
+      "id": 172,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Waqf kya hai?",
+      "a": "Waqf maal ko Allah ki raah mein hamesha ke liye waqf karna hai. Masjid, school, hospital — yeh sab waqf ke zariye hain."
+    },
+    {
+      "id": 173,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein I'tikaf ki kya fazilat hai?",
+      "a": "I'tikaf Ramadan ke aakhri 10 din masjid mein rehna aur ibadat karna hai. Nabi (SAW) hamesha I'tikaf karte the."
+    },
+    {
+      "id": 174,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Isra wal Miraj kya hai?",
+      "a": "Isra — Makkah se Baitul Muqaddas ka safar. Miraj — Aasmanon ki sair aur Allah se mulaqat. 27 Rajab ko yeh waqea hua."
+    },
+    {
+      "id": 175,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein jannat ki kya neamatein hain?",
+      "a": "Jannat mein woh sab kuch hoga jo dil chahe. Sab se badi nemat Allah ka didar hoga."
+    },
+    {
+      "id": 176,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Shahaadat kya hai?",
+      "a": "Shahaadat Allah ki raah mein jaan dena hai. Shaheed ko seedha jannat milti hai — hisaab nahi."
+    },
+    {
+      "id": 177,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Tawheed kya hai?",
+      "a": "Tawheed ka matlab Allah ki wahdaniyat — ek hona — par iman hai. Shirk sabse bada gunah hai."
+    },
+    {
+      "id": 178,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Shirk kya hai?",
+      "a": "Shirk Allah ke saath kisi ko shareek karna hai — yeh sabse bada gunah hai. \"Allah shirk maaf nahi karta.\""
+    },
+    {
+      "id": 179,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Risalat kya hai?",
+      "a": "Risalat ka matlab Anbiya par iman hai. Hazrat Muhammad (SAW) aakhri Nabi hain — koi Nabi baad mein nahi."
+    },
+    {
+      "id": 180,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Aakhirat kya hai?",
+      "a": "Aakhirat marne ke baad ki zindagi hai — hisaab, jannat ya jahannam. Aakhirat par iman zaroori hai."
+    },
+    {
+      "id": 181,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Taqwa kya hai?",
+      "a": "Taqwa Allah ka dar dil mein rakhna aur gunah se bachna hai. \"Insaan mein sabse behtara woh hai jo zyada taqwa wala ho.\""
+    },
+    {
+      "id": 182,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Bid'at kya hai?",
+      "a": "Bid'at deen mein nayi cheez daakhil karna hai jo Nabi (SAW) se sabit nahi. \"Har Bid'at gumrahi hai.\""
+    },
+    {
+      "id": 183,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Halal aur Haram mein kya farq hai?",
+      "a": "Halal woh kaam hai jo Islam mein jaiz hai — pakiza rizq. Haram woh kaam hai jo bilkul mana hai — karne par azab."
+    },
+    {
+      "id": 184,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein fitna kya hai?",
+      "a": "Fitna fasaad aur anarchy hai — Islam mein yeh haram hai. \"Fitna qatl se bada gunah hai.\""
+    },
+    {
+      "id": 185,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein kafir kaun hota hai?",
+      "a": "Kafir woh hai jo Allah aur Nabi (SAW) ko nahi maanta. Islam mein un ke saath bhi insaani sulook karna zaroori hai."
+    },
+    {
+      "id": 186,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein hisaab-e-kitaab kya hai?",
+      "a": "Qiyamat ke din har kaam ka hisaab hoga. Naiki weighs heavy — burai weighs light."
+    },
+    {
+      "id": 187,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Surah Al-Ikhlas ki kya ahmiyat hai?",
+      "a": "Surah Al-Ikhlas Quran ka teen-tihaai hissa hai — tawheed ka khulasa. Sirf 4 aayaat mein Allah ki mukammal pehchaan."
+    },
+    {
+      "id": 188,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Hazrat Bilal (RA) ki azmat kya thi?",
+      "a": "Hazrat Bilal (RA) Islam ke pehle muazzin the — Nabi (SAW) ke khaas sahabi. Inho ne azaab saha lekin Islam nahi chhhoda."
+    },
+    {
+      "id": 189,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein ghulam ke kya haqooq the?",
+      "a": "Ghulam ke saath wahi khilao jo khud khao. Unhe azaad karna sabse bada sawab tha."
+    },
+    {
+      "id": 190,
+      "classGroup": "7-8",
+      "color": "blue",
+      "q": "Islam mein Jihad-bin-Nafs kya hai?",
+      "a": "Jihad-bin-Nafs apne nafs ko control karna hai — sabse bada jihad. Nabi (SAW) ne farmaya \"Hum asghar jihad se akbar jihad ki taraf laute.\""
+    },
+    {
+      "id": 191,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Meesaq-e-Madina kya tha?",
+      "a": "Meesaq-e-Madina 1 Hijri mein hua — duniya ka pehla written constitution. Sab ko mazhabi azaadi aur jaan maal ki hifazat di gayi."
+    },
+    {
+      "id": 192,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Ghazwa-e-Badr ka nateeja kya tha?",
+      "a": "313 Muslims ne 1000 mushrikeen ko haraaya — Islam ki pehli badi fatah. 70 mushrik mare, 70 qaid hue."
+    },
+    {
+      "id": 193,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Ghazwa-e-Uhud ka sabaq kya hai?",
+      "a": "Hukm na maanne ka nuqsan — 70 sahaba shaheed hue. Sabaq: Nabi (SAW) ka hukm hamesha maano."
+    },
+    {
+      "id": 194,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Ghazwa-e-Khandaq ki strategy kya thi?",
+      "a": "Hazrat Salman Farsi (RA) ki mashwarat par khandaq khodi. 10,000 ka lashkar khandaq par se guzar nahi saka."
+    },
+    {
+      "id": 195,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Sulah Hudaibiya ke kya fayde hue?",
+      "a": "10 saal ke aman mein zyada log Muslim hue — \"Fatah-e-Mubeen\" kaha gaya. Islam ki dawat aur pheli."
+    },
+    {
+      "id": 196,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Fatah Makkah ki kya ahmiyat thi?",
+      "a": "21 saal baad Makkah fatah hua — bina khoon ke. Nabi (SAW) ne aam maafi di — dushman dil jeet liye."
+    },
+    {
+      "id": 197,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Hajjatul Wida ka khutba kya tha?",
+      "a": "\"Kisi Arab ko Ajam par barteri nahi siwaay taqwa ke.\" \"Quran aur Sunnat thamey rehna — gumraah nahi hoge.\""
+    },
+    {
+      "id": 198,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein khilafat kya hai?",
+      "a": "Khilafat Nabi (SAW) ki niyabat mein Islami hukoomat hai. Khalifa Quran aur Sunnat ke mutabiq hukoomat karta hai."
+    },
+    {
+      "id": 199,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Hazrat Abu Bakr (RA) ki sabse badi khidmat kya thi?",
+      "a": "Murtadeen se ladaai kar ke Islam bachaya. Quran ki pehli tahreeri compilation karwayi."
+    },
+    {
+      "id": 200,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Hazrat Umar (RA) ki sabse badi khidmat kya thi?",
+      "a": "Adal ki misaal — ameer aur gareeb ek. Islam ko Iran, Sham, Misr tak phailaya."
+    },
+    {
+      "id": 201,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Hazrat Usman (RA) ki sabse badi khidmat kya thi?",
+      "a": "Quran ka final mushaf tayar karwaya — aaj wahi Quran hai. Apna maal Islam par kharch kiya."
+    },
+    {
+      "id": 202,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Hazrat Ali (RA) ki sabse badi khidmat kya thi?",
+      "a": "Ilm aur adl ka daur — \"Mein ilm ka shehr hoon aur Ali uska darwaza.\" Mushkilaat mein sabr kiya."
+    },
+    {
+      "id": 203,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islamic Civilization ki bunyadi khususiyaat kya hain?",
+      "a": "Tawheed par buniyaad, ilm ki targheeب، انصاف aur masawaat. Yeh civilization science, literature aur architecture mein aage thi."
+    },
+    {
+      "id": 204,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Al-Khwarizmi ka kya yogdan tha?",
+      "a": "Al-Khwarizmi Algebra ke bani hain — \"Algorithm\" unhi ke naam par. Unhon ne zero ka concept Europe ko diya."
+    },
+    {
+      "id": 205,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Ibn Sina ka kya yogdan tha?",
+      "a": "Ibn Sina ki \"Al-Qanoon fit-Tibb\" 600 saal tak European medical textbook rahi. Woh infectious diseases ka concept laaye."
+    },
+    {
+      "id": 206,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Ibn al-Haytham ka kya yogdan tha?",
+      "a": "Ibn al-Haytham Optics ke bani hain — camera obscura ijaad kiya. Scientific method unhon ne establish kiya."
+    },
+    {
+      "id": 207,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam aur science mein kya talluq hai?",
+      "a": "Islam ne \"Iqra\" — parho — se ilm ki targheeب دی۔ Quran mein 750 se zyada scientific aayaat hain."
+    },
+    {
+      "id": 208,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein insaani haqooq ka kya tasawwur hai?",
+      "a": "Islam ne 1400 saal pehle woh haqooq diye jo aaj UN Charter mein hain. Rang, nasal, zaat ki barteri khatam ki."
+    },
+    {
+      "id": 209,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein economic system kya hai?",
+      "a": "Zakat se ghurbat khatam hoti hai, sood haram hai. Halal tijarat aur insaafi taqseem Islam ka economic usool hai."
+    },
+    {
+      "id": 210,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein political system kya hai?",
+      "a": "Shura — mashwara compulsory. Sovereignty sirf Allah ki. Adal aur khidmat leader ki zimmedari."
+    },
+    {
+      "id": 211,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein social system kya hai?",
+      "a": "Family system mazboot, auraton ko haqooq, ghurebon ki madad. Haqooq-ul-Ibad ka poora nizam."
+    },
+    {
+      "id": 212,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein judicial system kya hai?",
+      "a": "Quran aur Sunnat ke mutabiq faisle. Ameer aur gareeb ke liye ek qanoon. Qazi mustaqil hoga."
+    },
+    {
+      "id": 213,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein education system kya hai?",
+      "a": "\"Ilm haasil karo China tak.\" Masjid-e-Nabwi mein \"Suffah\" — pehla school. Ilm mard aur aurat dono par farz."
+    },
+    {
+      "id": 214,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein family system kya hai?",
+      "a": "Shadi sunnat, bachon ki tarbiyat zaroori. Maa baap ki khidmat farz. Family Islam ka bunyadi idara hai."
+    },
+    {
+      "id": 215,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein khwatoon ki taleem ki kya ahmiyat hai?",
+      "a": "\"Ilm haasil karna har Muslim mard aur aurat par farz hai.\" Hazrat Ayesha (RA) Islam ki pehli female scholar thin."
+    },
+    {
+      "id": 216,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Sunnah ki kya ahmiyat hai?",
+      "a": "Sunnah Quran ki practical explanation hai. \"Jo Rasool de woh lo aur jo mana kare ruk jao.\""
+    },
+    {
+      "id": 217,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Ijtihad kya hai?",
+      "a": "Ijtihad naye masail ka Quran aur Sunnah ki roshni mein hal nikalna hai. Yeh Islam ki flexibility hai."
+    },
+    {
+      "id": 218,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Fatwa kya hai?",
+      "a": "Fatwa kisi masle ka Islami hukm hai jo aalim deta hai. Fatwa Quran aur Sunnah ki roshni mein hota hai."
+    },
+    {
+      "id": 219,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Fiqh kya hai?",
+      "a": "Fiqh Islami law hai — Hanafi, Maliki, Shafai, Hanbali — 4 madhab hain. Yeh sab Quran aur Sunnah se nikle hain."
+    },
+    {
+      "id": 220,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Tafseer kya hai?",
+      "a": "Tafseer Quran ki tafseel aur wazahat hai. Mashhoor mufassireen — Ibn Katheer, Tabari, Zamakhshari."
+    },
+    {
+      "id": 221,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Hadith ki kitni qismein hain?",
+      "a": "Sahih, Hasan, Daif — yeh 3 basic qismein hain. Sahih Hadith woh hai jo muttasil isnad ke saath ho."
+    },
+    {
+      "id": 222,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Seerat kya hai?",
+      "a": "Seerat Nabi (SAW) ki zindagi ka bayan hai. Yeh Islam ko samajhne ka bada zariya hai."
+    },
+    {
+      "id": 223,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Hajj aur Umra mein kya farq hai?",
+      "a": "Hajj farz hai — saal mein ek baar, Zil Hajj mein. Umra sunnat-e-muakkadah hai — saal mein kabhi bhi."
+    },
+    {
+      "id": 224,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Islamic calendar kya hai?",
+      "a": "Islamic calendar Hijri calendar hai — Hijrat-e-Madina se shuru. Yeh qamar calendar hai — 12 mahine."
+    },
+    {
+      "id": 225,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Muharram ki kya ahmiyat hai?",
+      "a": "Muharram Islamic calendar ka pehla mahina hai. 10 Muharram ko Ashura — Roza sunnat hai."
+    },
+    {
+      "id": 226,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Rabi-ul-Awwal ki kya ahmiyat hai?",
+      "a": "Rabi-ul-Awwal mein Nabi (SAW) paida hue — 12 Rabi-ul-Awwal. Is mahine mein Seerat ki mehfilen hoti hain."
+    },
+    {
+      "id": 227,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Shaban ki kya ahmiyat hai?",
+      "a": "Shaban Ramadan ki tayyaari ka mahina hai. 15 Shaban — Shab-e-Baraat — maghfirat ki raat."
+    },
+    {
+      "id": 228,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Lailat-ul-Qadr kab hai?",
+      "a": "Lailat-ul-Qadr Ramadan ki aakhri 10 raaton mein hai. 27 wein raat zyada mutawattir hai."
+    },
+    {
+      "id": 229,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Bait-ul-Maal kya tha?",
+      "a": "Bait-ul-Maal Islamic state ka khazana tha. Zakat, kharaaj, jizyah yahan jama hota — gareeb, yateem, musafir ko milta."
+    },
+    {
+      "id": 230,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Jizyah kya tha?",
+      "a": "Jizyah non-Muslim zimmiyon se liya jaata tha — un ke hifazat aur khidmaat ke badle. Auraton, bacchon, budhon par nahi tha."
+    },
+    {
+      "id": 231,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Ushr kya tha?",
+      "a": "Ushr zeraai paidawar ka 10% ya 5% tha jo Muslims dete the. Yeh bhi bait-ul-maal mein jata tha."
+    },
+    {
+      "id": 232,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Tabligh kya hai?",
+      "a": "Tabligh Islam ka paigham pohnchana hai. \"Mujh se ek aayat hi sahi pohonchao.\""
+    },
+    {
+      "id": 233,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Imam-ul-Masjid ka kya kaam hai?",
+      "a": "Imam namaz padhata hai, khutba deta hai, mazhabi masail hul karta hai. Woh community ka rahnuma hota hai."
+    },
+    {
+      "id": 234,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Khutba kya hai?",
+      "a": "Khutba Jummah aur Eid mein diya jaata hai — Quran aur Sunnat ki roshni mein naseehat. Yeh farz hai."
+    },
+    {
+      "id": 235,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Mufti kaun hota hai?",
+      "a": "Mufti woh aalim hai jo Islami masail ka hukm bata sakta hai — Fatwa de sakta hai. Unhe Quran aur Fiqh ka ilm hota hai."
+    },
+    {
+      "id": 236,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Qazi kaun hota hai?",
+      "a": "Qazi Islami judge hota hai jo Quran aur Sunnah ke mutabiq faisla karta hai. Uske faisle mein koi tafreeq nahi."
+    },
+    {
+      "id": 237,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Khalifa kaun hota hai?",
+      "a": "Khalifa Nabi (SAW) ki niyabat mein Islami hukoomat karta hai. Woh Quran aur Sunnat ka paabund hota hai."
+    },
+    {
+      "id": 238,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Shura kya hai?",
+      "a": "Shura mashwara ka nizam hai — \"Apne kaam mein unse mashwara karo.\" Islamic democracy ka bunyadi usool."
+    },
+    {
+      "id": 239,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Bay'at kya hai?",
+      "a": "Bay'at Khalifa ya rahnuma se wafadari ka waada karna hai. Sahaaba ne Nabi (SAW) se bay'at ki."
+    },
+    {
+      "id": 240,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Jihad-bil-Lisan kya hai?",
+      "a": "Jihad-bil-Lisan baat kar ke haq ki baat kehna hai. \"Zalim haakim ke saamne haq baat kehna afzal jihad hai.\""
+    },
+    {
+      "id": 241,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Jihad-bis-Saif kya hai?",
+      "a": "Jihad-bis-Saif hathiyar se ladna hai — sirf difaa mein aur aakhri option. Civilians par hamla haram hai."
+    },
+    {
+      "id": 242,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Ghazi kaun hota hai?",
+      "a": "Ghazi woh hota hai jo Allah ki raah mein ladhta hai aur zinda wapas aata hai. Ghazi bhi bahut sawab wala hai."
+    },
+    {
+      "id": 243,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Nafl ibadat kya hai?",
+      "a": "Nafl ibadat farz se zyada hai — nafl namaz, roza, sadqa. Yeh Allah se qurbat ka zariya hai."
+    },
+    {
+      "id": 244,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Tasawwuf kya hai?",
+      "a": "Tasawwuf dil ki safai aur Allah se qurbat ka ilm hai. Yeh Quran aur Sunnah ki roshni mein hona chahiye."
+    },
+    {
+      "id": 245,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Sunnat-e-Muakkadah kya hai?",
+      "a": "Sunnat-e-Muakkadah woh sunnat hai jo Nabi (SAW) ne hamesha padhne ki thi. Ise chhodna makrooh hai."
+    },
+    {
+      "id": 246,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Makrooh kya hai?",
+      "a": "Makrooh woh kaam hai jo na-pasandida hai lekin haram nahi. Chhodna behtar hai."
+    },
+    {
+      "id": 247,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Mubah kya hai?",
+      "a": "Mubah woh kaam hai jis mein koi sawab ya gunah nahi. Ijaazat hai lekin zaroori nahi."
+    },
+    {
+      "id": 248,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Mustahab kya hai?",
+      "a": "Mustahab woh kaam hai jo pasandida hai lekin farz nahi. Karne par sawab, na karne par gunah nahi."
+    },
+    {
+      "id": 249,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Awliya Allah kaun hain?",
+      "a": "Awliya Allah woh hain jo Allah se qareeb hain — taqwa, ilm aur ibadat ki wajah se. Unka maqam bahut aala hai."
+    },
+    {
+      "id": 250,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Hazrat Muhammad (SAW) ki azmat kya thi?",
+      "a": "Hazrat Muhammad (SAW) \"Khatim-un-Nabiyeen\" hain — aakhri Nabi. Allah ne farmaya \"Aap par darood bhejta hoon.\""
+    },
+    {
+      "id": 251,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Quran ki hifazat kaise hoti hai?",
+      "a": "Allah ne Quran ki hifazat ka waada kiya — \"Hum iske haafiz hain.\" Hafiz aur tahreeri — dono zareeye hain."
+    },
+    {
+      "id": 252,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein ilm-ul-Quran kya hai?",
+      "a": "Ilm-ul-Quran Quran samajhne ki ilm hai — Tajweed, Tafseer, Tarteel. Quran seekhna aur sikhana sawab hai."
+    },
+    {
+      "id": 253,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein namaaz ki kya ahamiyat hai?",
+      "a": "Namaz deen ka sutoon hai — \"Namaz qiyam karo.\" Namaz Allah se seedha talluq hai."
+    },
+    {
+      "id": 254,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein roza ki kya ahamiyat hai?",
+      "a": "\"Roza mera hai aur mein hi iska badla dunga.\" Roza nafs ki tarbiyat aur taqwa ka zariya hai."
+    },
+    {
+      "id": 255,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein zakat ki kya ahamiyat hai?",
+      "a": "Zakat se maal paak hota hai aur ghurbat kam hoti hai. \"Unke maal mein saail aur mahroom ka hissa hai.\""
+    },
+    {
+      "id": 256,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein hajj ki kya ahamiyat hai?",
+      "a": "Hajj mein poori duniya ke Muslims jama hote hain. Gunah maaf hote hain — naye sire se zindagi shuru."
+    },
+    {
+      "id": 257,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Eid ki kya ahmiyat hai?",
+      "a": "Eid ibadat ke baad Allah ki khushi ka din hai. Sab se milo, gareeb ko khilao, khushiyan banto."
+    },
+    {
+      "id": 258,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Zil Hajj ki kya ahmiyat hai?",
+      "a": "Zil Hajj mein Hajj hota hai — 9 se 13 Zil Hajj. 10 Zil Hajj Eid ul Adha — qurbani ka din."
+    },
+    {
+      "id": 259,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Quran ke kya ahkaam hain?",
+      "a": "Namaz, zakat, roza, hajj — ibaadaat ke ahkaam. Haqooq-ul-Ibad — maamlaat ke ahkaam. Yeh sab Quran mein hain."
+    },
+    {
+      "id": 260,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Deen aur Duniya mein kya talluq hai?",
+      "a": "Islam Deen aur Duniya dono ko shaamil karta hai. Nek kaam karte hue duniya ki taraqqi bhi Islam hai."
+    },
+    {
+      "id": 261,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Rajab ki kya ahmiyat hai?",
+      "a": "Rajab haram mahina hai — is mein ladaai mana thi. 27 Rajab ko Isra wal Miraj hua."
+    },
+    {
+      "id": 262,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Kharaaj kya tha?",
+      "a": "Kharaaj zameen par tax tha jo non-Muslim zimmi dete the. Yeh Islamic state ka ahem zariya-e-aamdan tha."
+    },
+    {
+      "id": 263,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Ghaneema kya tha?",
+      "a": "Ghaneema jang mein mile maal ko kehte hain. Iska ek hissa Bait-ul-Maal mein jata tha."
+    },
+    {
+      "id": 264,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein corruption ka kya hukm hai?",
+      "a": "Corruption — rishatwat — Islam mein haram hai. \"Rashawd lene aur dene wale par lanaat.\" Yeh social zulm hai."
+    },
+    {
+      "id": 265,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein terrorism ka kya hukm hai?",
+      "a": "\"Jo ek insaan ko maare goya usne poori insaniyat ko maara.\" Terrorism Islam mein haram hai."
+    },
+    {
+      "id": 266,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein suicide ka kya hukm hai?",
+      "a": "Khudkushi haram hai — \"Apne aap ko mat maro — Allah tumhara raham karne wala hai.\" Mushkilaat mein sabr karo."
+    },
+    {
+      "id": 267,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein drug addiction ka kya hukm hai?",
+      "a": "Sharaab aur nesha aawaar cheezein haram hain — \"Yeh Shaitaan ka kaam hai.\" Nesha aawaar cheezein society tabah karti hain."
+    },
+    {
+      "id": 268,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein racism ka kya hukm hai?",
+      "a": "\"Kisi Arab ko Ajam par barteri nahi siwaay taqwa ke.\" Islam mein rang, nasal ki barteri haram hai."
+    },
+    {
+      "id": 269,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein casteism ka kya hukm hai?",
+      "a": "Islam ne zaat paat khatam kiya — \"Sab Adam ki aulad ho.\" Hazrat Bilal (RA) — ghulam — pehle muazzin bane."
+    },
+    {
+      "id": 270,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein patriotism kya hai?",
+      "a": "Apne mulk se pyaar Islam mein jaiz aur sawab ka kaam hai. Pakistan ki hifazat karna farz hai."
+    },
+    {
+      "id": 271,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein banking system kya hona chahiye?",
+      "a": "Islamic banking — sood se paak. Mudarabah, Musharakah — profit sharing. Yeh halal tijarat hai."
+    },
+    {
+      "id": 272,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein poverty eradication kaise hogi?",
+      "a": "Zakat system properly nafi ho — Pakistan mein ghurbat khatam. Sadqa, waqf, qarz-e-hasana bhi zaroori hain."
+    },
+    {
+      "id": 273,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Seerat-un-Nabi se economic lessons kya hain?",
+      "a": "Sood haram, halal tijarat, honest dealing — yeh Nabi (SAW) ki economic teachings. Aaj bhi applicable hain."
+    },
+    {
+      "id": 274,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Seerat-un-Nabi se political lessons kya hain?",
+      "a": "Shura, adal, khidmat, transparency — Nabi (SAW) ka political system. Meesaq-e-Madina pehla constitution."
+    },
+    {
+      "id": 275,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Seerat-un-Nabi se social lessons kya hain?",
+      "a": "Bhaichara, haqooq-ul-ibad, insaani musawaat — Nabi (SAW) ki social teachings. Fatah Makkah — aam maafi."
+    },
+    {
+      "id": 276,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Seerat-un-Nabi se educational lessons kya hain?",
+      "a": "\"Ilm haasil karo.\" Ghazwa-e-Badr ke qaidiyoon ko parha kar azaad kiya. Masjid-e-Nabwi mein \"Suffah\" school."
+    },
+    {
+      "id": 277,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Quran-e-Hakeem ki scientific miracles kya hain?",
+      "a": "Embryology — Surah Al-Mominoon. Oceans — Surah Al-Furqan. Big Bang — Surah Al-Anbiya. Yeh sab science confirm karta hai."
+    },
+    {
+      "id": 278,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Quran ki literary miracles kya hain?",
+      "a": "Quran ka literary challenge — \"Is jaisi ek Surah bana ke lao.\" 1400 saal mein koi nahi bana saka. Yeh Quran ki azmat hai."
+    },
+    {
+      "id": 279,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Quran ki predictions kya hain?",
+      "a": "\"Romans ghaalib honge\" — 3 se 9 saal mein pura hua. \"Quran mehfooz rahega\" — aaj bhi wahi Quran. Yeh predictions sabit huin."
+    },
+    {
+      "id": 280,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Hadith-e-Nabwi ki kya ahmiyat hai?",
+      "a": "Hadith Quran ki explanation hai. \"Mein tum mein do cheezein chhodh jaata hoon — Quran aur Sunnat.\" Dono zaroori hain."
+    },
+    {
+      "id": 281,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Sahih Sittah kya hai?",
+      "a": "Sahih Sittah Hadith ki 6 mashhoor kitaabein hain — Bukhari, Muslim, Abu Daud, Tirmidhi, Nasai, Ibn Majah. Yeh sab mustanad hain."
+    },
+    {
+      "id": 282,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Ijma kya hai?",
+      "a": "Ijma ulema ka kisi masle par ittefaq hai — yeh Quran aur Sunnah ke baad tees ahm zariya hai. Sahaaba ka Ijma sabse mustanad hai."
+    },
+    {
+      "id": 283,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Qiyas kya hai?",
+      "a": "Qiyas kisi naye masle ka eski jaisi purani baat se hal karna hai. Yeh Islamic fiqh ka 4th zariya hai."
+    },
+    {
+      "id": 284,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Maslahat kya hai?",
+      "a": "Maslahat umam ka bhala sochna hai — Islam mein public interest zaroori hai. Yeh bhi fiqh ki buniyad hai."
+    },
+    {
+      "id": 285,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein ghulami ka kya hukm tha?",
+      "a": "Islam ne ghulami khatam karne ki targheeب دی۔ Ghulam azaad karna sabse bada sadqa qarar diya gaya."
+    },
+    {
+      "id": 286,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein media ethics kya hain?",
+      "a": "Sach kaho, gheebat mat karo, fitna mat phailao. Media ko Islam ki dawat ka zariya banana chahiye."
+    },
+    {
+      "id": 287,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein internet aur social media ka kya hukm hai?",
+      "a": "Nek kaam ke liye halal — dawat, taleem. Bure kaam ke liye haram — gheebat, jhooth, fahash. Niyyat zaroori hai."
+    },
+    {
+      "id": 288,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein investment ka kya hukm hai?",
+      "a": "Halal business mein investment jaiz hai. Sood par investment haram. Stock market mein halal stocks mein invest kar sakte hain."
+    },
+    {
+      "id": 289,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein insurance ka kya hukm hai?",
+      "a": "Conventional insurance mein sood aur jahalat — problematic. Takaful — Islamic cooperative insurance — halal hai."
+    },
+    {
+      "id": 290,
+      "classGroup": "9-10",
+      "color": "red",
+      "q": "Islam mein Quran ke mutabiq adalat kya hai?",
+      "a": "\"Adal karo chahe apne khilaf ho.\" Islam mein ameer aur gareeb ke liye ek qanoon hai."
+    },
+    {
+      "id": 291,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islamic Civilization ki science mein kya khidmaat hain?",
+      "a": "Al-Khwarizmi — Algebra, Ibn Sina — Medicine, Ibn al-Haytham — Optics, Al-Biruni — Geography. Yeh sab Muslim scientists ne duniya badli."
+    },
+    {
+      "id": 292,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islamic Civilization ki literature mein kya khidmaat hain?",
+      "a": "Rumi ki Masnavi, Ibn Khaldun ka Muqaddima, Al-Mutanabbi ki shayari. Yeh sab duniya ka beshtreen adab hai."
+    },
+    {
+      "id": 293,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islamic Civilization ki architecture mein kya khidmaat hain?",
+      "a": "Alhambra, Dome of the Rock, Badshahi Mosque, Taj Mahal — yeh sab Islamic architecture ke shaahkaar hain. Yeh aaj bhi qaaim hain."
+    },
+    {
+      "id": 294,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Allama Iqbal ka Islam ke baare mein kya tasawwur tha?",
+      "a": "Iqbal ne \"Khudi\" — self-respect — ka tasawwur diya. Unhon ne Muslim ummah ko Quran ki taraf wapas aane ki dawat di."
+    },
+    {
+      "id": 295,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Iqbal ki mashoor nazmein kaun si hain?",
+      "a": "\"Shikwa,\" \"Jawab-e-Shikwa,\" \"Tarana-e-Milli,\" \"Khizr-e-Raah.\" Yeh sab Muslim ummat ko jaganae ki koshish hain."
+    },
+    {
+      "id": 296,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Pakistan ka Islamic background kya hai?",
+      "a": "Pakistan \"La ilaha illallah\" ki buniyad par bana. Quaid-e-Azam ne kaha — Pakistan Islami principles par chalega."
+    },
+    {
+      "id": 297,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam aur jadeed science mein kya talluq hai?",
+      "a": "Quran mein 750 se zyada scientific aayaat hain. Embryology, astronomy, oceanography — sab Quran confirm karta hai."
+    },
+    {
+      "id": 298,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam aur human rights mein kya talluq hai?",
+      "a": "Islam ne 1400 saal pehle human rights diye. Hajjatul Wida ka khutba — pehla Human Rights Charter."
+    },
+    {
+      "id": 299,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam aur democracy mein kya farq hai?",
+      "a": "Islam mein Shura — mashwara — lekin sovereignty Allah ki. Democracy mein sovereignty awaam ki. Islam \"theo-democracy\" hai."
+    },
+    {
+      "id": 300,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam aur capitalism mein kya farq hai?",
+      "a": "Capitalism mein sood halal — Islam mein haram. Islam mein zakat — mandatory redistribution. Islam aur capitalism mein bunyadi farq hai."
+    },
+    {
+      "id": 301,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam aur socialism mein kya farq hai?",
+      "a": "Socialism mein zati maalikiyat nahi — Islam mein hai. Islam mein zakat se redistribution — jabri nahi. Islam middle way hai."
+    },
+    {
+      "id": 302,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein women empowerment kya hai?",
+      "a": "Islam ne auraton ko 1400 saal pehle meerath, taleem, nikah mein marzi ka haq diya. Aaj bhi yeh rights relevant hain."
+    },
+    {
+      "id": 303,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein child rights kya hain?",
+      "a": "Bacche ka haq — maa ka doodh, taleem, pyaar, hifazat. Islam ne bachon ko buniyaadi haqooq diye."
+    },
+    {
+      "id": 304,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein environmental ethics kya hain?",
+      "a": "\"Darakh lagana sadqa hai.\" Paani barbaad mat karo. Zameen ki hifazat karo. Islam green philosophy hai."
+    },
+    {
+      "id": 305,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein secularism ka kya hukm hai?",
+      "a": "Islam deen aur duniya dono ko shaamil karta hai — secularism ka tasawwur Islam se alag hai. Deen aur siyasat alag nahi."
+    },
+    {
+      "id": 306,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein nationalism ka kya hukm hai?",
+      "a": "Watan se mohabbat jaiz hai — lekin nationalism jo doosron par zulm kare haram hai. Muslim ummah ek hai."
+    },
+    {
+      "id": 307,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein globalization ka kya hukm hai?",
+      "a": "Halal tijarat mein globalization jaiz. Haram culture ka phailana — problem. Islam universal message hai."
+    },
+    {
+      "id": 308,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Iqbal ke tasawwur-e-Pakistan ka khulasa kya hai?",
+      "a": "Iqbal ne 1930 mein separate Muslim state ka tasawwur pesh kiya. Muslims ka apna nizam-e-hayat ho jahan Quran o Sunnah ke mutabiq zindagi guzari ja sake."
+    },
+    {
+      "id": 309,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Islamic State ki zaroorat kyun hai?",
+      "a": "Islamic State mein Quran aur Sunnah ke mutabiq nizam nafiz hota hai. Sovereignty sirf Allah ki — adal aur khidmat leader ki zimmedari."
+    },
+    {
+      "id": 310,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Sharia kya hai?",
+      "a": "Sharia Quran aur Sunnah par mabni Islami qanoon hai. Yeh sirf punishments nahi — poori zindagi ka nizam hai."
+    },
+    {
+      "id": 311,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Maqasid-ul-Shariah kya hain?",
+      "a": "Maqasid-ul-Shariah ke 5 maqsad — Jaan, Aql, Nasl, Maal, Deen ki hifazat. Islam ka poora nizam inhi par hai."
+    },
+    {
+      "id": 312,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Islaah-e-Muashara kaise ho sakta hai?",
+      "a": "Quran aur Sunnah ki roshni mein taleem, adal, zakat, aur akhlaaq se society theek hoti hai. Har fard apni jagah se islaah shuru kare."
+    },
+    {
+      "id": 313,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Anbiya ki azmat kya hai? (Class 11-12 level)",
+      "a": "Anbiya Allah ke muntakhab bande hain — Masoom (gunahon se paak). Woh insaniyat ke liye role model hain aur Allah ka paigham laate hain."
+    },
+    {
+      "id": 314,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Jabir ibn Hayyan ka kya yogdan tha?",
+      "a": "Jabir ibn Hayyan Chemistry ke bani hain — acids, alkalis aur distillation unki ijaad. Unhe \"Father of Chemistry\" kaha jaata hai."
+    },
+    {
+      "id": 315,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Al-Biruni ka kya yogdan tha?",
+      "a": "Al-Biruni ne zameen ka diameter calculate kiya. Woh geography, astronomy aur indology mein pioneer the."
+    },
+    {
+      "id": 316,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Ibn Khaldun ka kya yogdan tha?",
+      "a": "Ibn Khaldun \"Muqaddima\" ke writer hain — sociology aur historiography ke bani. Woh civilization ke cycles samjhate the."
+    },
+    {
+      "id": 317,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Tasawwuf ki haqeeqi tarif kya hai?",
+      "a": "Tasawwuf dil ki safai, nafs ka tazkia aur Allah se qurbat hai. Yeh Quran aur Sunnah ki roshni mein hona chahiye — bid'at nahi."
+    },
+    {
+      "id": 318,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Kalam (Islamic philosophy) kya hai?",
+      "a": "Ilm-ul-Kalam aqaaid (beliefs) ki rational discussion hai. Ash'ariyya, Maturidiyya — mashhoor Kalam school hain."
+    },
+    {
+      "id": 319,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ikhwanul Muslimeen kya hai?",
+      "a": "Ikhwanul Muslimeen Hasan al-Banna ne 1928 mein banaya — Islamic revival movement. Islam ko muaashara mein wapas laane ki koshish."
+    },
+    {
+      "id": 320,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Quran ki linguistic miracles kya hain?",
+      "a": "Quran ka style aur alfaz 1400 saal baad bhi unmatched hain. Arabic grammar ki highest form — koi match nahi kar saka."
+    },
+    {
+      "id": 321,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Zahid kaun hota hai?",
+      "a": "Zahid woh hota hai jo duniya ki mohabbat dil se nikaalta hai — Allah ki mohabbat dikhata hai. Yeh zindagi mein simple rehna hai."
+    },
+    {
+      "id": 322,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Wara kya hai?",
+      "a": "Wara ka matlab shubhat (doubt) wali cheezein chhodna hai. \"Halal wazih hai, haram wazih hai — shubhat wali cheezein mat lo.\""
+    },
+    {
+      "id": 323,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Zuhd kya hai?",
+      "a": "Zuhd duniya ki laag ki kami hai — dil mein sirf Allah ki mohabbat. Yeh ikhlaas ki ek khas qism hai."
+    },
+    {
+      "id": 324,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Nafs-e-Ammara kya hai?",
+      "a": "Nafs-e-Ammara woh nafs hai jo burai ka hukm deta hai. Ise control karna sabse bada jihad hai."
+    },
+    {
+      "id": 325,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Nafs-e-Lawwama kya hai?",
+      "a": "Nafs-e-Lawwama woh nafs hai jo gunah karne par pachtaata hai. Quran mein Allah ne is ki qasam khai."
+    },
+    {
+      "id": 326,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Nafs-e-Mutmainna kya hai?",
+      "a": "Nafs-e-Mutmainna woh nafs hai jo sukoon mein hai — jannat walo ka nafs. \"Aey sukoon wali jaan apne Rabb ki taraf aa.\""
+    },
+    {
+      "id": 327,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Akhlaaq-e-Faazila kya hain?",
+      "a": "Akhlaaq-e-Faazila Islamiyat ki khas qualities hain — sach, amanat, sabr, shukar, ikhlaas, tawakkul. Yeh jannat ki raah hain."
+    },
+    {
+      "id": 328,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Riya kya hai?",
+      "a": "Riya dikhaawa karna — ibadat Allah ke liye nahi, logon ko dikhane ke liye. Yeh chupa hua shirk hai — sabse khatarnak."
+    },
+    {
+      "id": 329,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Kibr kya hai?",
+      "a": "Kibr takkabur — ghamand hai. \"Woh jannat mein nahi jaayega jis ke dil mein zarra bhar kibr ho.\" Yeh buri quality hai."
+    },
+    {
+      "id": 330,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Tawadu kya hai?",
+      "a": "Tawadu anwant — cheeze dil mein hona hai. \"Allah tawadu wale ko uthata hai.\" Nabi (SAW) sabse zyada tawadu wale the."
+    },
+    {
+      "id": 331,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Hilm kya hai?",
+      "a": "Hilm burdbaari — gusse ko rokna hai. \"Jawaan mard woh nahi jo kudne mein taakotwar ho balke woh jo gusse mein khud ko rokne wala ho.\""
+    },
+    {
+      "id": 332,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Rahm kya hai?",
+      "a": "Rahm raham dili hai — doosron ke dard ko mehsoos karna. \"Rahm karne walon par Allah raham karta hai.\""
+    },
+    {
+      "id": 333,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Jood wa Sakhawa kya hai?",
+      "a": "Jood wa Sakhawa sakhi hona hai — dil khol kar dena. Nabi (SAW) sabse zyada sakhi the — tez hawa se zyada."
+    },
+    {
+      "id": 334,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Amr bil Maroof kya hai?",
+      "a": "Amr bil Maroof nek kaam ka hukm karna hai. Yeh har Muslim ki zimmedari hai — muashara ko nek banana."
+    },
+    {
+      "id": 335,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Nahy anil Munkar kya hai?",
+      "a": "Nahy anil Munkar burai se rokna hai. \"Tum mein se jo burai dekhe woh haath se roke, agar nahi to zaban se, agar nahi to dil se.\""
+    },
+    {
+      "id": 336,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ummah kya hai?",
+      "a": "Ummah poori Muslim millat — ek body ki tarah. \"Momin ek doosre ke liye aayena hai.\" Ummah ki ittehad zaroori hai."
+    },
+    {
+      "id": 337,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Khilafat ke zawal ke asbaab kya hain?",
+      "a": "Ilm se doorh hona, siyasi manfiqat, ittehad ka khatma, dushmanon ki sazishein — yeh zawal ke asbaab hain. Islam se door hone ka nateeja."
+    },
+    {
+      "id": 338,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein tajdeed kya hai?",
+      "a": "Tajdeed deen ki taazghi hai — her saal ek Mujaddid (reformer) aata hai jo Islam ko refresh karta hai. Yeh Allah ki hikmah hai."
+    },
+    {
+      "id": 339,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Uswah-e-Hasanah kya hai?",
+      "a": "Uswah-e-Hasanah behterein example hai — Nabi (SAW) ka. \"Tumhare liye Rasool mein behterein example hai.\""
+    },
+    {
+      "id": 340,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Khidmat-e-Deen kya hai?",
+      "a": "Khidmat-e-Deen Islam ki khidmat karna hai — taleem, dawat, masjid, madrasah. Yeh sawab-e-jariya ka kaam hai."
+    },
+    {
+      "id": 341,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Sadqa-e-Jariya kya hai?",
+      "a": "Sadqa-e-Jariya woh sadqa hai jiska sawab marne ke baad bhi jari rahe — ilm, aulad, waqf. Yeh aakhirat ki tyaari hai."
+    },
+    {
+      "id": 342,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Nasab aur Huqooq ka kya system hai?",
+      "a": "Islam mein nasab — lineage — ki hifazat maqasid-ul-shariah mein se hai. Meerath aur haqooq nasab se mutalliq hain."
+    },
+    {
+      "id": 343,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Aql ka kya maqam hai?",
+      "a": "Islam mein Aql — reason — ek bada tohfa hai. Allah ne Aql ko Amaanat diya — ise sahi kaam mein lagao. Aql ki hifazat maqasid mein hai."
+    },
+    {
+      "id": 344,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Tarbiyat-e-Aulad ki kya ahmiyat hai?",
+      "a": "\"Baap ka aulad par sabse bada haq — achhi tarbiyat.\" Quran, Sunnah, akhlaaq sikhana walidain ki zimmedari hai."
+    },
+    {
+      "id": 345,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Nikah ki kya ahmiyat hai?",
+      "a": "\"Nikah meri sunnat hai — jo meri sunnat se munhh morhta hai woh mujhse nahi.\" Nikah se nasl ki hifazat aur deen mukammal hota hai."
+    },
+    {
+      "id": 346,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Meerath ka kya nizam hai?",
+      "a": "Islam ne meerath ka waazih nizam diya — Quran mein muqarrar hissa. Auratein bhi meerath leti hain — pehli sochni wali baat."
+    },
+    {
+      "id": 347,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Wasiyyat kya hai?",
+      "a": "Wasiyyat marne se pehle apna maal taqseem karne ka hukm hai. Kisi ko Quran ke khilaf wasiyyat nahi kar sakte."
+    },
+    {
+      "id": 348,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Qisas kya hai?",
+      "a": "Qisas — badla — ka hukm Quran mein hai. Lekin maafi dena aur diyat lena behtar hai. \"Agar maaf karo to yeh taqwa ke qareeb hai.\""
+    },
+    {
+      "id": 349,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Diyat kya hai?",
+      "a": "Diyat — blood money — qisas ki jagah dene ki raqqam hai. Yeh qatl ya zakhm ke badle mein diya jaata hai."
+    },
+    {
+      "id": 350,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Hudood kya hain?",
+      "a": "Hudood woh hadein hain jo Allah ne muqarrar ki hain — chori, zina par saza. Yeh deterrent hain jab properly adal ke saath nafiz ho."
+    },
+    {
+      "id": 351,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Tazir kya hai?",
+      "a": "Tazir woh saza hai jo Quran mein muqarrar nahi — haakim tayin karta hai. Adal ke saath deni chahiye."
+    },
+    {
+      "id": 352,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Aqd kya hai?",
+      "a": "Aqd muqarrar sharait ke saath contract hai — nikah, tijarat. Islam mein contracts ki pabandi farz hai."
+    },
+    {
+      "id": 353,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Mudarabah kya hai?",
+      "a": "Mudarabah partnership hai jisme ek capital deta hai doosra kaam karta hai — profit share hota hai. Yeh Islamic banking ka bunyad hai."
+    },
+    {
+      "id": 354,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Musharakah kya hai?",
+      "a": "Musharakah joint venture hai jisme sab partners capital aur kaam dono dete hain. Profit aur loss share hoti hai."
+    },
+    {
+      "id": 355,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Murabahah kya hai?",
+      "a": "Murabahah cost plus profit sale hai — Islamic banking mein sood ki jagah yeh use hota hai. Transparency zaroori hai."
+    },
+    {
+      "id": 356,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ijara kya hai?",
+      "a": "Ijara Islamic leasing hai — kisi cheez ka kiraya dena halal hai agar terms clear hon. Yeh Islamic finance mein use hota hai."
+    },
+    {
+      "id": 357,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Sukuk kya hai?",
+      "a": "Sukuk Islamic bonds hain — asset-backed. Yeh sood ke baghair halal investment ka zariya hai. Islamic finance ka bada hissa."
+    },
+    {
+      "id": 358,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Qarz-e-Hasana kya hai?",
+      "a": "Qarz-e-Hasana interest-free loan hai — Allah ne farmaya yeh Allah ko dena hai woh double deta hai. Yeh sawab ka kaam hai."
+    },
+    {
+      "id": 359,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Sood aur Islamic Finance ka farq kya hai?",
+      "a": "Sood guaranteed return hai — haram. Islamic finance mein risk share hota hai — profit sharing halal. Yeh bunyadi farq hai."
+    },
+    {
+      "id": 360,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Zakat ka complete nizam kya hai?",
+      "a": "Zakat 2.5% maal par, 5-10% zeraai par, farz hai. 8 mustahiqeen hain — Quran mein. Properly nafi ho to ghurbat khatam."
+    },
+    {
+      "id": 361,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Pakistan ka dastoor aur Islam mein kya talluq hai?",
+      "a": "Pakistan ka 1973 ka dastoor Islam ko state religion manta hai. Objective Resolution — Allah ki hukumat ka iqrar. Yeh Islamic state ka frame hai."
+    },
+    {
+      "id": 362,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ijtemaa (Jummah, Eid) ki kya hikmat hai?",
+      "a": "Ijtemaa se Muslim community ek hoti hai — masail discuss hote hain. Yeh social bonding aur dawat dono ka zariya hai."
+    },
+    {
+      "id": 363,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Hajj ki ibadat mein kya hikmat hai?",
+      "a": "Hajj global Muslim unity ka mazhar hai — sab ek rang mein. Ghuruband ka khatma, haqooq ki adaigi, naya azm karna — yeh Hajj ki hikmat hai."
+    },
+    {
+      "id": 364,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Roza ki ibadat mein kya hikmat hai?",
+      "a": "Roza nafs ki tarbiyat, ghareeb ki taraf hamdardi, Allah ki khushi. \"Roza shield hai\" — burai se bachata hai."
+    },
+    {
+      "id": 365,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Namaz ki ibadat mein kya hikmat hai?",
+      "a": "Namaz time management sikhati hai — discipline aur Allah se seedha talluq. \"Namaz burai aur fahsha se rokti hai.\""
+    },
+    {
+      "id": 366,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Zakat ki ibadat mein kya hikmat hai?",
+      "a": "Zakat economic justice ka zariya hai — ameer ki selfishness khatam, gareeb ko madad. Maal ki purification."
+    },
+    {
+      "id": 367,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Kalima ki kya hikmat hai?",
+      "a": "Kalima tawheed ka iqrar hai — sirf Allah ki ibadat. Yeh iman ka bunyadi usool aur Islamic state ka constitution hai."
+    },
+    {
+      "id": 368,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Taubah aur Istikhfar mein kya farq hai?",
+      "a": "Taubah agle ke liye azm ke saath maafi maangna hai. Istikhfar sirf alfaz se. Taubah-e-Nasooha mein dono shaamil hain."
+    },
+    {
+      "id": 369,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Hifz-e-Quran ki kya ahmiyat hai?",
+      "a": "Hafiz-e-Quran ka Allah ke nazdeek buland maqam hai. \"Hafiz apne walidain ko qiyamat mein taj pahnayega.\" Yeh badi khidmat hai."
+    },
+    {
+      "id": 370,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ijaz-ul-Quran kya hai?",
+      "a": "Ijaz — Quran ka mojiza — literary, scientific, historical sab mein. 1400 saal mein koi match nahi kar saka. Yeh Quran ki haqiqat ki daleel hai."
+    },
+    {
+      "id": 371,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Nazm-e-Quran kya hai?",
+      "a": "Nazm-e-Quran Quran ka coherent system aur aayaat ka talluq hai. Har Surah mein ek mukammal theme hai — yeh Allah ki qudrat hai."
+    },
+    {
+      "id": 372,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Tadabbur-ul-Quran kya hai?",
+      "a": "Tadabbur Quran par gehri soch aur contemplation hai. Allah ne farmaya \"Kya yeh Quran par tadabbur nahi karte?\""
+    },
+    {
+      "id": 373,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Tajdeed-e-Iman kya hai?",
+      "a": "Tajdeed-e-Iman iman ko taza karna hai — Kalima padhna, iman ke arkan yaad karna. Iman ghata badhta hai."
+    },
+    {
+      "id": 374,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Mujaddid kaun hota hai?",
+      "a": "Mujaddid woh hota hai jo har sau saal baad Islam ko taaza karta hai. Imam Ghazali, Imam Ahmad bin Hanbal — mashhoor mujaddidin."
+    },
+    {
+      "id": 375,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ahl-e-Sunnah wal Jamaat kya hai?",
+      "a": "Ahl-e-Sunnah wal Jamaat woh hain jo Nabi (SAW) aur Sahaaba ki sunnat par hain. Pakistan mein yeh majority hai."
+    },
+    {
+      "id": 376,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Wahdat-ul-Ummah kya hai?",
+      "a": "Wahdat-ul-Ummah Muslim ummah ki ittehad hai — \"Sab Muslims ek jism hain.\" Ittehad mein taqat, ikhtilaf mein kamzori."
+    },
+    {
+      "id": 377,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ittihaad-e-Muslimeen ki zaroorat kyun hai?",
+      "a": "Muslim ummah aaj bikhri hui hai — dushman iska faida uthate hain. Quran aur Sunnah par ittehad — yahi hal hai."
+    },
+    {
+      "id": 378,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Ghazwah-e-Hind ki kya ahmiyat hai?",
+      "a": "Ghazwah-e-Hind Hadith mein mojood hai — qiyamat se pehle aayega. Yeh khaber Islam ki truthfulness ki daleel hai."
+    },
+    {
+      "id": 379,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Dajjal ki kya nishaniyan hain?",
+      "a": "Dajjal ek aal zamana fitna hai — qiyamat ki badi nishani. Surah Al-Kahf padhna Dajjal se bachata hai."
+    },
+    {
+      "id": 380,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Hazrat Mahdi ki kya ahmiyat hai?",
+      "a": "Hazrat Mahdi aakhir zamaan mein aayenge — Hadith mein mojood. Woh adal se zameen bhar denge jab zulm se bhari hogi."
+    },
+    {
+      "id": 381,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Hazrat Isa (AS) ka dobara aana kyon hoga?",
+      "a": "Hazrat Isa (AS) aakhir zamaan mein aayenge — Dajjal ko maarenge, Islam laaenge. Yeh qiyamat ki badi nishani hai."
+    },
+    {
+      "id": 382,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Yajuj Majuj ki kya ahmiyat hai?",
+      "a": "Yajuj Majuj qiyamat ki badi nishani hai — woh fasaad karte hain. Hazrat Isa (AS) ki dua se halak honge."
+    },
+    {
+      "id": 383,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Barzakh kya hai?",
+      "a": "Barzakh marne ke baad aur qiyamat se pehle ki zindagi hai. Mominon ke liye sukoon, kafiron ke liye azab."
+    },
+    {
+      "id": 384,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Sirat-ul-Mustaqeem kya hai?",
+      "a": "Sirat-ul-Mustaqeem seedha raasta hai — jis par Anbiya, Siddiqeen, Shuhada aur Saliheen hain. Surah Fatiha mein is ki dua hai."
+    },
+    {
+      "id": 385,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Taqdir aur Ikhtiyar mein kya talluq hai?",
+      "a": "Taqdeer Allah ka ilm hai lekin insaan ko ikhtiyar diya — woh choose karta hai. Ikhtiyar aur taqdeer dono saath chalte hain."
+    },
+    {
+      "id": 386,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Aqeedah-e-Aakhirat ki kya zaroorat hai?",
+      "a": "Aakhirat par iman ke baghair insaan duniya mein zulm karta hai. Hisaab ka khauf insaan ko nek banata hai."
+    },
+    {
+      "id": 387,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Baqarah ki kya ahmiyat hai?",
+      "a": "Surah Al-Baqarah Quran ki sabse badi Surah hai — Verse of the Throne, no compulsion in religion. \"Ghar mein parho — Shaitaan nahin aata.\""
+    },
+    {
+      "id": 388,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Imran ki kya ahmiyat hai?",
+      "a": "Surah Al-Imran mein Ghazwa-e-Uhud ka zikar, Hazrat Isa (AS) ki paidaish, ittehad ka hukm. \"Sab Allah ki rassi maazo.\""
+    },
+    {
+      "id": 389,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah An-Nisa ki kya ahmiyat hai?",
+      "a": "Surah An-Nisa mein auraton ke haqooq, meerath ka nizam, nikah ke ahkaam — Islam ka social law."
+    },
+    {
+      "id": 390,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Maidah ki kya ahmiyat hai?",
+      "a": "Surah Al-Maidah mein wuzu, halal haram, adal ka hukm. \"Jo Allah ke nazil karda ke mutabiq faisla na kare woh zaalim hai.\""
+    },
+    {
+      "id": 391,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Hujurat ki kya ahmiyat hai?",
+      "a": "Surah Al-Hujurat social ethics ka Quran — gheebat, backbiting, mosauat haram. \"Sab Adam ki aulad ho — taqwa par barteri.\""
+    },
+    {
+      "id": 392,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Ahzab ki kya ahmiyat hai?",
+      "a": "Surah Al-Ahzab mein Nabi (SAW) ka uswah, Nabi (SAW) par darood, parda ka hukm. \"Nabi (SAW) mominon ke liye unki jaanon se zyada qareeb hain.\""
+    },
+    {
+      "id": 393,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Kahf ki kya ahmiyat hai?",
+      "a": "Surah Al-Kahf Dajjal se hifazat, 4 qisse — deen, maal, ilm, taqat ki azmaish. Jummah ko padhna sunnat hai."
+    },
+    {
+      "id": 394,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Yasin ki kya ahmiyat hai?",
+      "a": "\"Yasin Quran ka dil hai.\" Marne walon ke paas padhna sunnat, aakhirat ki tayyaari ki yaad dilaata hai."
+    },
+    {
+      "id": 395,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Waqi'ah ki kya ahmiyat hai?",
+      "a": "\"Jo roz Surah Waqi'ah parhe woh kabhi ghareeb nahi hoga.\" Yeh rizq ki barkat aur aakhirat ki tasweer hai."
+    },
+    {
+      "id": 396,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Rahman ki kya ahmiyat hai?",
+      "a": "\"Surah Al-Rahman Quran ki dulhan hai.\" 31 baar \"Fabi ayyi ala Rabbikuma tukadhibaan\" — Allah ki neamtein yaad dilata hai."
+    },
+    {
+      "id": 397,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Surah Al-Mulk ki kya ahmiyat hai?",
+      "a": "\"Surah Al-Mulk apne padhne wale ki qabr mein shafaat karti hai.\" Roz raat padhna sunnat hai — azab-e-qabr se bachata hai."
+    },
+    {
+      "id": 398,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein Pakistan ko Islamic state banane ki kya zaroorat hai?",
+      "a": "Pakistan ki buniyaad Islamic ideology hai. Adal, khidmat, shura — jab yeh ho to Pakistan taraqqi karega. Har fard ki zimmedari hai."
+    },
+    {
+      "id": 399,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein aaj ka Muslim naujawan kya kare?",
+      "a": "Quran parho, samjho, amal karo. Halal kamao, haqooq-ul-ibad ada karo. Pakistan ke liye mehnat karo — yahi Islam hai."
+    },
+    {
+      "id": 400,
+      "classGroup": "11-12",
+      "color": "purple",
+      "q": "Islam mein khidmat-e-Islam ki kya zaroorat hai?",
+      "a": "\"Behtar woh hai jo logon ke kaam aaye.\" Har Muslim apni jagah — teacher, doctor, engineer — Islam ki khidmat kar sakta hai."
+    }
+  ],
+  "class_groups": [
+    {
+      "key": "1-2",
+      "label": "Class 1-2",
+      "color": "green",
+      "icon": "🟢",
+      "desc": "Bunyadi Islamiyat — Basic Level",
+      "count": 30
+    },
+    {
+      "key": "3-4",
+      "label": "Class 3-4",
+      "color": "yellow",
+      "icon": "🟡",
+      "desc": "Ibtidaai Islamiyat — Elementary Level",
+      "count": 40
+    },
+    {
+      "key": "5-6",
+      "label": "Class 5-6",
+      "color": "orange",
+      "icon": "🟠",
+      "desc": "Darmiyaani Darjah — Middle Level",
+      "count": 50
+    },
+    {
+      "key": "7-8",
+      "label": "Class 7-8",
+      "color": "blue",
+      "icon": "🔵",
+      "desc": "Saanawiyah — Secondary Level",
+      "count": 70
+    },
+    {
+      "key": "9-10",
+      "label": "Class 9-10",
+      "color": "red",
+      "icon": "🔴",
+      "desc": "Matriculation Level",
+      "count": 100
+    },
+    {
+      "key": "11-12",
+      "label": "Class 11-12",
+      "color": "purple",
+      "icon": "🟣",
+      "desc": "Intermediate Level — Advanced",
+      "count": 110
+    }
+  ]
+}

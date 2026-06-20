@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <!-- Premium Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <nav class="sidebar glass" id="sidebar">
+            <div class="sidebar-header">
+                <h2><i class="fa-solid fa-graduation-cap"></i> Islamiyat AI</h2>
+                <button id="close-sidebar-btn" class="icon-btn mobile-only"><i class="fa-solid fa-times"></i></button>
+            </div>
+            <div class="new-chat-btn" onclick="startNewChat()">
+                <i class="fa-solid fa-plus"></i> New Chat
+            </div>
+            <div class="history-list" id="history-list">
+                <!-- History items populated by JS -->
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Topbar -->
+            <header class="topbar">
+                <button id="toggle-sidebar-btn" class="icon-btn mobile-only"><i class="fa-solid fa-bars"></i></button>
+                <div class="model-selector"><i class="fa-solid fa-sparkles" style="color: #8b5cf6;"></i> Islamiyat Assistant</div>
+                <div class="quick-actions">
+                    <button class="action-btn" onclick="sendAction('Create an Islamiyat Lesson Plan for class ', false)">📋 Islamiyat Lesson Plan</button>
+                    <button class="action-btn" onclick="sendAction('Generate Islamiyat MCQs for class ', false)">🔵 Islamiyat MCQs</button>
+                    <button class="action-btn" onclick="sendAction('Generate an Islamiyat Quiz for class ', false)">📝 Islamiyat Quiz</button>
+                    <button class="action-btn" onclick="sendAction('Daily Ayat', true)">📖 Daily Ayat</button>
+                </div>
+            </header>
+
+            <!-- Chat Area -->
+            <div class="chat-area" id="chat-area">
+                <!-- Chat messages go here -->
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area">
+                <div class="suggestions" id="suggestions">
+                    <button class="suggestion-chip" onclick="sendAction('Class 5 ke liye Islamiyat ka sawal: Namaz ky faide kya hain?')">Class 5 ke liye Islamiyat ka sawal: Namaz ky faide kya hain?</button>
+                    <button class="suggestion-chip" onclick="sendAction('Class 8 ke liye Islamiyat MCQs on prayer')">Class 8 ke liye Islamiyat MCQs on prayer</button>
+                    <button class="suggestion-chip" onclick="sendAction('Class 12 ke liye Islamiyat ka sawal: Zakat ka faraiz kya hain?')">Class 12 ke liye Islamiyat ka sawal: Zakat ka faraiz kya hain?</button>
+                </div>
+                <div class="input-box">
+                    <button id="mic-btn" class="icon-btn mic-btn" title="Voice Message"><i class="fa-solid fa-microphone"></i></button>
+                    <textarea id="message-input" placeholder="Islamiyat ka sawaal poochain... short/long/real life/hadith/ayat/father job" rows="1"></textarea>
+                    <button id="send-btn" class="icon-btn send-btn"><i class="fa-solid fa-paper-plane"></i></button>
+                </div>
+                <div class="footer-text">Sirf Islamiyat ke sawaal poochain. Use karain: short, long, real life, hadith, ayat, father job.</div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
