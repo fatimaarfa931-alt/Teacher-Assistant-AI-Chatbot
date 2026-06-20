@@ -5,7 +5,7 @@
 Welcome to the **Teacher Assistant AI Chatbot**, a professional-grade AI assistant designed to reduce the administrative burden on educators. This intelligent virtual assistant helps teachers automate grading, answer student queries, generate lesson plans, and manage classroom schedules seamlessly.
 
 🚀 Live Demo
-Experience the full AI assistant live on Hugging Face / Render: *[Coming Soon]*
+Experience the full AI assistant live on Hugging Face / Render: https://teacher-assistant-1--ArfaFatima931.replit.app
 
 ---
 
